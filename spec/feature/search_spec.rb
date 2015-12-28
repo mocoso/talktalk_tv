@@ -1,13 +1,13 @@
 require 'spec_helper'
-require 'blinkbox_search'
+require 'blinkbox_films'
 
 describe 'A search' do
   context 'with zero results' do
-    it { expect(BlinkboxSearch.new.search('qwerty')).to be_empty }
+    it { expect(BlinkboxFilms::Search.new.search('qwerty')).to be_empty }
   end
 
   context 'with some results' do
-    subject { BlinkboxSearch.new.search('dark knight') }
+    subject { BlinkboxFilms::Search.new.search('dark knight') }
 
     it { expect(subject).to_not be_empty }
     it { expect(subject.first[:title]).to eq('The Dark Knight') }
