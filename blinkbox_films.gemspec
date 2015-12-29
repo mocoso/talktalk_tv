@@ -10,5 +10,6 @@ Gem::Specification.new do |s|
   s.homepage    = 'https://github.com/mocoso/blinkbox_films'
 
   s.add_runtime_dependency 'nokogiri', '~> 1.6'
+  s.add_runtime_dependency 'httpclient', '~> 2.7'
   s.add_development_dependency 'rspec', '~> 3'
 end
