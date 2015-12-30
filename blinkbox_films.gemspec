@@ -6,10 +6,11 @@ Gem::Specification.new do |s|
   s.description = "Built with some wonky page scraping"
   s.authors     = ["Joel Chippindale"]
   s.email       = 'joel@joelchippindale.com'
-  s.files       = Dir['lib/**/*.rb'] + Dir['spec/**/*.rb']
+  s.files       = Dir['lib/**/*.rb'] + Dir['spec/**/*.rb'] + ['Rakefile']
   s.homepage    = 'https://github.com/mocoso/blinkbox_films'
 
   s.add_runtime_dependency 'nokogiri', '~> 1.6'
   s.add_runtime_dependency 'httpclient', '~> 2.7'
+  s.add_development_dependency 'rake', '~> 10'
   s.add_development_dependency 'rspec', '~> 3'
 end
