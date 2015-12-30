@@ -6,8 +6,10 @@ Gem::Specification.new do |s|
   s.description = "Built with some wonky page scraping"
   s.authors     = ["Joel Chippindale"]
   s.email       = 'joel@joelchippindale.com'
-  s.files       = Dir['lib/**/*.rb'] + Dir['spec/**/*.rb'] + ['Rakefile']
   s.homepage    = 'https://github.com/mocoso/blinkbox_films'
+  s.license = 'MIT'
+  s.files       = Dir['lib/**/*.rb'] + Dir['spec/**/*.rb'] +
+                    ['Rakefile', 'LICENSE.txt']
 
   s.add_runtime_dependency 'nokogiri', '~> 1.6'
   s.add_runtime_dependency 'httpclient', '~> 2.7'
