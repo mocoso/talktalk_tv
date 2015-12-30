@@ -1,0 +1,452 @@
+---
+http_interactions:
+- request:
+    method: get
+    uri: http://www.blinkbox.com/search?Search=dark%20knight
+    body:
+      encoding: UTF-8
+      string: ''
+    headers:
+      User-Agent:
+      - HTTPClient/1.0 (2.7.0.1, ruby 2.2.4 (2015-12-16))
+      Accept:
+      - "*/*"
+      Date:
+      - Wed, 30 Dec 2015 07:27:36 GMT
+  response:
+    status:
+      code: 200
+      message: OK
+    headers:
+      Cache-Control:
+      - no-cache, no-store, must-revalidate
+      Pragma:
+      - no-cache
+      Set-Cookie:
+      - rocky=9UOBKFtzVH1fhOJ9s9CDLH8JxcvchKae_fIavHhuqNFrykOVEKEHWXRYIzacx5EKMcfsdksWujgAcbc8_HovELGtxZ3adwD214bMPUAHLty_bZ4eTv04x7_rEt21jAV-UHBoqQvYjc7szhK5sBQGfU0VIZbzpH_PKScSx--Aofof-FrGWkq19_XNVKOwGiT0;
+        domain=.blinkbox.com; expires=Thu, 29-Dec-2016 07:27:38 GMT; path=/; HttpOnly
+      - s_viewedMsgs=1,device; path=/; HttpOnly
+      - shortbread=ArvHy4vYuuy8G-cVAJS-JnMaZpbAypx8jszSgGklLo12tZ5Ihyypubo0tDS9PiQmITdfBuXRPP2SdM4SIHXnnQ;
+        domain=.blinkbox.com; expires=Thu, 29-Dec-2016 07:27:38 GMT; path=/; HttpOnly
+      Content-Type:
+      - text/html; charset=utf-8
+      Expires:
+      - Wed, 30 Dec 2015 07:27:38 GMT
+      Server:
+      - Footprint Distributor V4.10
+      Content-Security-Policy:
+      - frame-ancestors 'self'
+      X-Content-Type-Options:
+      - nosniff
+      X-Frame-Options:
+      - SAMEORIGIN
+      X-Xss-Protection:
+      - '1'
+      Date:
+      - Wed, 30 Dec 2015 07:27:38 GMT
+      Transfer-Encoding:
+      - chunked
+      Connection:
+      - keep-alive
+    body:
+      encoding: UTF-8
+      string: "\r\n<!DOCTYPE html>\r\n\r\n<!--[if IE 7]>    <html class=\"ie7\" lang=\"en\">
+        <![endif]-->\r\n<!--[if IE 8]>    <html class=\"ie8\" lang=\"en\"> <![endif]-->\r\n<!--[if
+        IE 9]>    <html class=\"ie9\" lang=\"en\"> <![endif]-->\r\n<!--[if gt IE 9]><!-->\r\n<html
+        lang=\"en\">\r\n<!--<![endif]-->\r\n<head>\r\n    \r\n    <link rel=\"dns-prefetch\"
+        href=\"//ajax.googleapis.com\" />\n    <link rel=\"dns-prefetch\" href=\"//cdn1.blinkboxmedia.com\"
+        />\n    <link rel=\"dns-prefetch\" href=\"//cdn2.blinkboxmedia.com\" />\n
+        \   <link rel=\"dns-prefetch\" href=\"//cdn3.blinkboxmedia.com\" />\n    <link
+        rel=\"dns-prefetch\" href=\"//cdn4.blinkboxmedia.com\" />\r\n    <title>Dark
+        Knight - Movies &amp; TV Search | blinkbox</title>\r\n\r\n    <meta content=\"Watch
+        movies online at blinkbox. You can rent and buy movies and TV shows to download
+        or stream, on your iPad, Hudl, Xbox, PlayStation, Internet TV or PC.\" name=\"description\"
+        />\r\n\r\n    <link href=\"http://www.blinkbox.com/search?search=dark knight\"
+        rel=\"canonical\" />\r\n\r\n\r\n\r\n\r\n    \r\n    \r\n    <meta http-equiv=\"X-UA-Compatible\"
+        content=\"requiresActiveX=true,IE=edge\" />\r\n<meta name=\"msXboxApplication-ID\"
+        content=\"384B07D1\" />\r\n<link href=\"https://plus.google.com/+blinkbox/\"
+        rel=\"publisher\" /> \r\n<meta name=\"msapplication-tap-highlight\" content=\"no\"
+        />\r\n\n\n\n<link rel=\"apple-touch-icon\" sizes=\"57x57\" href=\"/VersionedContent/IVaK30Q5pPeHkAHMwk16Q/Images/FavIcon/apple-touch-icon-57x57.png\">\n<link
+        rel=\"apple-touch-icon\" sizes=\"114x114\" href=\"/VersionedContent/0Spf3I8VplxjtQhNHWZYQ/Images/FavIcon/apple-touch-icon-114x114.png\">\n<link
+        rel=\"apple-touch-icon\" sizes=\"72x72\" href=\"/VersionedContent/i78oYcZfkzqSceaSISN5Yg/Images/FavIcon/apple-touch-icon-72x72.png\">\n<link
+        rel=\"apple-touch-icon\" sizes=\"144x144\" href=\"/VersionedContent/VKC4EA7CEnteMRlzLwRBJw/Images/FavIcon/apple-touch-icon-144x144.png\">\n<link
+        rel=\"apple-touch-icon\" sizes=\"60x60\" href=\"/VersionedContent/ZrLQTfkx9KKIiuV2CJpRA/Images/FavIcon/apple-touch-icon-60x60.png\">\n<link
+        rel=\"apple-touch-icon\" sizes=\"120x120\" href=\"/VersionedContent/eSv0Z9yz0w32NWVGTDBOzA/Images/FavIcon/apple-touch-icon-120x120.png\">\n<link
+        rel=\"apple-touch-icon\" sizes=\"76x76\" href=\"/VersionedContent/3tqlmIVN4u6CB3GivUAkQg/Images/FavIcon/apple-touch-icon-76x76.png\">\n<link
+        rel=\"apple-touch-icon\" sizes=\"152x152\" href=\"/VersionedContent/FaCvZf7J1FEwlj2x2BfvA/Images/FavIcon/apple-touch-icon-152x152.png\">\n<meta
+        name=\"apple-mobile-web-app-title\" content=\"blinkbox.com\">\n<link rel=\"icon\"
+        type=\"image/png\" href=\"/VersionedContent/3Twb8YVjj7jVgfUYDIhrsg/Images/FavIcon/favicon-196x196.png\"
+        sizes=\"196x196\">\n<link rel=\"icon\" type=\"image/png\" href=\"/VersionedContent/qEHza9ghF1Vzqb9Y2ZbvSg/Images/FavIcon/favicon-192x192.png\"
+        sizes=\"192x192\">\n<link rel=\"icon\" type=\"image/png\" href=\"/VersionedContent/tPHfQn3ou92g8MTaZvAU5A/Images/FavIcon/favicon-160x160.png\"
+        sizes=\"160x160\">\n<link rel=\"icon\" type=\"image/png\" href=\"/VersionedContent/hyBKxz5c2GB9FBoJJpGa6A/Images/FavIcon/favicon-96x96.png\"
+        sizes=\"96x96\">\n<link rel=\"icon\" type=\"image/png\" href=\"/VersionedContent/eT3FjphFM9kcHVU7ZxT3lA/Images/FavIcon/favicon-16x16.png\"
+        sizes=\"16x16\">\n<link rel=\"icon\" type=\"image/png\" href=\"/VersionedContent/KJ5Dzx7uIZ2YAyMhG3ETw/Images/FavIcon/favicon-32x32.png\"
+        sizes=\"32x32\">\n<meta name=\"msapplication-TileColor\" content=\"#101f36\">\n<meta
+        name=\"msapplication-TileImage\" content=\"/VersionedContent/rPvUMWPWCss9AKp9qy6Arw/Images/FavIcon/mstile-144x144.png\">\n<meta
+        name=\"application-name\" content=\"blinkbox.com\">\r\n    <link href=\"/Css-Generated-Versioned/Layout/Responsive/Responsive.2fcd898e.css\"
+        media=\"screen\" rel=\"stylesheet\" type=\"text/css\" />\r\n    \r\n    <link
+        href=\"/Css-Generated-Versioned/Less/Pages/Search/SearchResults.f0b969ac.css\"
+        media=\"screen\" rel=\"stylesheet\" type=\"text/css\" />\r\n\r\n    \r\n\r\n
+        \   <meta name=\"viewport\" content=\"width=device-width, initial-scale =
+        1.0, user-scalable = no\">\r\n\r\n    <!--[if lte IE 8]><script src=\"/bundles/scripts/339/SharedRespond.js?v=pqdAqYDnaNnKhR2cT1rPZJA1iRKoPCHJQ6OXsj8KRos1\"></script>\r\n<![endif]-->\r\n
+        \   \r\n        <script type=\"text/javascript\">\r\n            (function
+        (i, s, o, g, r, a, m) {\r\n                i['GoogleAnalyticsObject'] = r;
+        i[r] = i[r] || function () {\r\n                    (i[r].q = i[r].q || []).push(arguments)\r\n
+        \               }, i[r].l = 1 * new Date(); a = s.createElement(o),\r\n                    m
+        = s.getElementsByTagName(o)[0]; a.async = 1; a.src = g; m.parentNode.insertBefore(a,
+        m)\r\n            })(window, document, 'script', '//www.google-analytics.com/analytics.js',
+        'ga');\r\n\r\n\r\n        </script>\r\n\r\n        <!-- Optimizely code -->\r\n
+        \   <script>\r\n        window['optimizely'] = window['optimizely'] || [];\r\n
+        \       window['optimizely'].push([\"customTag\", \"isUserLoggedIn\", \"False\"]);\r\n
+        \       window['optimizely'].push([\"customTag\", \"userSegmentationType\",
+        \"Anonymous\"]);\r\n    </script>\r\n    <script src=\"//cdn.optimizely.com/js/2581840084.js\"></script>\r\n
+        \   <!-- End of Optimizely code -->\r\n\r\n</head>\r\n<body class=\"nojs\">\r\n
+        \   <script type='text/javascript'>window.onerror = function(message, url,
+        lineNumber) {var a=encodeURIComponent||escape; (new Image).src='http\\x3a\\x2f\\x2fwww.blinkbox.com\\x2fArea\\x2fServices\\x2fTracking\\x2fClientError'+'\\x3furl\\x3d'
+        + a(url) + '\\x26message\\x3d' + a(message) + '\\x26line\\x3d' + a(lineNumber)
+        ;return true; };</script>\r\n<script type=\"text/javascript\">\r\n    var
+        body = document.getElementsByTagName('body');\r\n    body[0].className = body[0].className.replace(new
+        RegExp('(\\\\s|^)' + 'nojs' + '(\\\\s|$)'), 'js');    \r\n</script>\r\n\r\n<script
+        src=\"/bundles/scripts/339/Modernizr.js?v=wwCwrbs0IQmNgQMV5mEMMiUNbdmeWu7N-PAfKPJ3dHQ1\"></script>\r\n\r\n\r\n\r\n<script
+        language=\"javascript\">\r\n    (function () {\r\n        if (!navigator.userAgent.match(/Windows
+        Phone 8\\.0/)) {\r\n            var msViewportStyle = document.createElement(\"style\");\r\n
+        \           msViewportStyle.type = \"text\\/css\";\r\n            \r\n            //
+        createTextNode() doesn't work on the style tag in IE8 and creates a console
+        error, so we don't do the below.\r\n            // The styleSheet property
+        on a style element is recognised by IE but undefined on other browsers.\r\n
+        \           if (typeof msViewportStyle.styleSheet == \"undefined\") {\r\n
+        \               msViewportStyle.appendChild(\r\n                    document.createTextNode(\"@-ms-viewport{width:device-width}\")\r\n
+        \               );\r\n            }\r\n\r\n            document.getElementsByTagName(\"head\")[0].appendChild(msViewportStyle);\r\n
+        \       }\r\n    })();\r\n</script>\r\n    \r\n    \r\n\r\n    <header  class=\"globalHeader
+        globalHeaderFixed searchOpen\" id=\"jsHeader\">\r\n\r\n    \r\n    \r\n    <div
+        class=\"globalHeaderWrapper\">\r\n        <div class=\"logo\">\r\n            \r\n
+        \               <a title=\"blinkbox homepage\"\r\n                    href=\"/\"\r\n
+        \                   data-tracking-click=\"{&quot;Action&quot;:&quot;BlinkboxLogo&quot;,&quot;Category&quot;:&quot;SearchResults&quot;,&quot;IsAjax&quot;:false}\">\r\n
+        \                   <div id=\"j-logoImageContainer\" class=\"logo-image\">\r\n
+        \                       <noscript>\r\n                            <img src=\"/VersionedContent/UWSLRlztTsRZC03XHIrYkA/Images/Layout/header-logo.png\"
+        alt=\"blinkbox logo\" />\r\n                        </noscript>\r\n                    </div>\r\n
+        \               </a>\r\n        </div>\r\n        \r\n        <script>\r\n
+        \           (function(){\r\n                var html, container;\r\n\r\n                if
+        (window.Modernizr && Modernizr.svg > -1 && window.devicePixelRatio > 1) {\r\n
+        \                   html = '<img src=\"/VersionedContent/8VTlobleGkB4KbvcVjk9A/Images/Layout/blinkbox-group-logo.svg\"
+        />';\r\n                }\r\n                else {\r\n                    html
+        = '<img src=\"/VersionedContent/UWSLRlztTsRZC03XHIrYkA/Images/Layout/header-logo.png\"
+        />';\r\n                }\r\n\r\n                container = document.getElementById(\"j-logoImageContainer\");\r\n
+        \               container.innerHTML = html;\r\n            })();\r\n        </script>\r\n
+        \           <nav aria-hidden=\"false\">\r\n                <h2 class=\"structure\">Browse
+        Desktop</h2>\r\n                <ul class=\"globalHeaderFunctions\">\r\n\r\n
+        \                   <li  class=\"searchNav signedOut jsSearchBar\">\r\n                        <div
+        >\r\n                            <form action=\"/search\" method=\"get\" data-form-submission-tracking=\"{&quot;Action&quot;:&quot;SearchSubmit&quot;,&quot;Category&quot;:&quot;SearchResults&quot;,&quot;IsAjax&quot;:false}\">\r\n
+        \                               <input type=\"search\" name=\"search\" value=\"dark
+        knight\" title=\"Search by title, actor or director\" placeholder=\"Search
+        by title, actor or director\" class=\"jsSearchInput\" autocomplete=\"off\"
+        maxlength=\"200\" />\r\n                                <button class=\"search
+        jsSearchButton\" data-tracking-once=\"true\" data-tracking-click=\"{&quot;Action&quot;:&quot;SearchOpen&quot;,&quot;Category&quot;:&quot;SearchResults&quot;,&quot;IsAjax&quot;:true}\"><span
+        class=\"offLeft\">Search</span><span class=\"fontIconText\" aria-hidden=\"true\">&#xE004;</span></button>\r\n
+        \                           <input type=\"hidden\" name=\"__ncforminfo\" value=\"v8yulACueg13hq3vfjBk0KxVKeL-Rvyx5t0nWT0qxSYCbWQX6yKK3Ty8oxFVDy1lDPbKz0JQOBEqBSgYEjwC1YZyBverM8rA\"/></form>\r\n
+        \                           <script id=\"asset-dropdown\" type=\"text/x-handlebars-template\">\r\n\r\n
+        \   {{!-- div class=\"c-instantSearch list-group\" --}}\r\n        {{#if Found}}\r\n
+        \       <div class=\"c-instantSearch__wrapper\">\r\n            <h2 class=\"structure\">Search
+        Results</h2>\r\n            {{#if TotalMovies}}\r\n            <section class=\"c-instantSearch__group
+        c-instantSearch__group--results\">\r\n                <h3 class=\"c-instantSearch__groupHeader\">Movies</h3>\r\n
+        \               <div class=\"c-instantSearch__itemsWrapper\">\r\n                    <ul
+        class=\"c-instantSearch__items\">\r\n                        {{#each Movies}}\r\n
+        \                       <li class=\"c-instantSearch__item c-instantSearch__item--result
+        js-searchItem\">\r\n                            <a class=\"c-instantSearch__link\"
+        href=\"{{Url}}\" data-tracking-click=\"{{ClickTracking}}\">\r\n                                {{#em
+        ../SearchTerm}} {{Title}} {{/em}}\r\n                            </a>\r\n
+        \                       </li>\r\n                        {{/each}}\r\n                        {{#if
+        MoreMovies}}\r\n                        <li class=\"c-instantSearch__item
+        c-instantSearch__item--more js-searchItem has-more\">\r\n                            <a
+        class=\"c-instantSearch__link c-instantSearch__link--more\" href=\"{{MoreMoviesUrl}}\"
+        data-tracking-click=\"{{MoreMoviesTracking}}\">\r\n                                {{MoreMovies}}
+        more results\r\n                            </a>\r\n                        </li>\r\n
+        \                       {{/if}}\r\n                    </ul>\r\n                    {{#if
+        TotalTvShows}}\r\n                    <div class=\"c-instantSearch__divider\"></div>\r\n
+        \                   {{/if}}\r\n                </div>\r\n            </section>\r\n
+        \           {{/if}}\r\n            {{#if TotalTvShows}}\r\n            <section
+        class=\"c-instantSearch__group c-instantSearch__group--results\">\r\n                <h3
+        class=\"c-instantSearch__groupHeader c-instantSearch__groupHeader--tv\">Tv
+        Shows</h3>\r\n                <div class=\"c-instantSearch__itemsWrapper\">\r\n
+        \                   <ul class=\"c-instantSearch__items\">\r\n                        {{#each
+        TvShows}}\r\n                        <li class=\"c-instantSearch__item c-instantSearch__item--result
+        js-searchItem\">\r\n                            <a class=\"c-instantSearch__link\"
+        href=\"{{Url}}\" data-tracking-click=\"{{ClickTracking}}\"> {{#em ../SearchTerm}}
+        {{Title}} {{/em}}</a>\r\n                        </li>\r\n                        {{/each}}\r\n
+        \                       {{#if MoreTvShows}}\r\n                        <li
+        class=\"c-instantSearch__item c-instantSearch__item--more js-searchItem has-more\">\r\n
+        \                           <a class=\"c-instantSearch__link c-instantSearch__link--more\"
+        href=\"{{MoreTvShowsUrl}}\" data-tracking-click=\"{{MoreTvTracking}}\">{{MoreTvShows}}
+        more results</a>\r\n                        </li>\r\n                        {{/if}}\r\n
+        \                   </ul>\r\n                </div>\r\n            </section>\r\n
+        \           {{/if}}\r\n        </div>\r\n        {{else}}\r\n        {{#if
+        SearchTerm}}\r\n            <div class=\"c-instantSearch__wrapper c-instantSearch__wrapper--noResults\">\r\n
+        \                   <p class=\"c-instantSearch__item c-instantSearch__item--noResults\">No
+        results for current search.</p>\r\n                    <p class=\"c-instantSearch__item
+        c-instantSearch__item--noResults\">Looking for an <strong>actor</strong> or
+        <strong>director?</strong> Please enter their full name.</p>\r\n            </div>\r\n
+        \       {{/if}}\r\n    {{/if}}\r\n    {{!-- /div --}}\r\n</script>\r\n                        </div>\r\n
+        \                   </li>\r\n                        <li class=\"user\">\r\n
+        \                           <a class=\"accountUserIcon\"\r\n                               href=\"https://www.blinkbox.com/login?originalUrl=http%3A%2F%2Fwww.blinkbox.com%2Fsearch%3FSearch%3Ddark%2Bknight\"\r\n
+        \                              data-tracking-click=\"{&quot;Action&quot;:&quot;SignInClicked&quot;,&quot;Category&quot;:&quot;SearchResults&quot;,&quot;IsAjax&quot;:false}\">\r\n
+        \                               <span class=\"offLeft\">Account Status</span><span
+        class=\"fontIconText\" aria-hidden=\"true\">&#XE000;</span>\r\n                                <span
+        class=\"accountUserIconText\">Log in</span>\r\n                            </a>\r\n
+        \                       </li>\r\n                </ul>\r\n            </nav>\r\n
+        \           <div aria-hidden=\"true\" class=\"mobileSearch\">\r\n                <form
+        action=\"/search\" method=\"get\" data-form-submission-tracking=\"{&quot;Action&quot;:&quot;SearchSubmit&quot;,&quot;Category&quot;:&quot;SearchResults&quot;,&quot;IsAjax&quot;:false}\">\r\n
+        \                   <input type=\"search\" name=\"search\" value=\"dark knight\"
+        placeholder=\"Search by title, actor or director\" class=\"jsSearchInput\"
+        autocomplete=\"off\" />\r\n                    <button type=\"submit\" class=\"greyButton
+        jsMobileSearchButton\">Search</button>\r\n                <input type=\"hidden\"
+        name=\"__ncforminfo\" value=\"v8yulACueg13hq3vfjBk0KxVKeL-Rvyx5t0nWT0qxSblncu2bqGP2iSOjiUBJLTxgMVnsuUBZ5ih_QvgO-rboucQ-P6jG5H7\"/></form>\r\n
+        \           </div>\r\n            <nav aria-hidden=\"true\">\r\n                <h2
+        class=\"structure\">Browse Mobile</h2>\r\n                <ul >\r\n                        <li
+        class=\"mainHeaderMenu js-mainHeaderMenu\">\r\n                            <div
+        class=\"root js-root\"><span class=\"mainTitle\">MOVIES &amp; TV</span><span
+        class=\"hoverTitle\">SHOW ME</span></div>\r\n                            <div
+        class=\"menuWrapper js-menuWrapper\">\r\n                                <ul
+        \ class=\"subMenu\">\r\n                                        <li >\r\n
+        \                                           <a  data-tracking-click=\"{&quot;Action&quot;:&quot;SHOWME_Movies&quot;,&quot;Category&quot;:&quot;SearchResults&quot;,&quot;IsAjax&quot;:false}\"
+        href=\"/movies\">Movies</a>\r\n                                        </li>\r\n
+        \                                       <li >\r\n                                            <a
+        \ data-tracking-click=\"{&quot;Action&quot;:&quot;SHOWME_TV&quot;,&quot;Category&quot;:&quot;SearchResults&quot;,&quot;IsAjax&quot;:false}\"
+        href=\"/tv\">TV</a>\r\n                                        </li>\r\n                                                                    </ul>\r\n
+        \                           </div>\r\n                        </li>\r\n                </ul>\r\n
+        \           </nav>\r\n    </div>\r\n</header>\r\n\r\n<div class=\"globalHeaderPlaceholder\">\r\n
+        \   \r\n</div>\r\n\r\n\r\n    <main>\r\n        <div class=\"innerMainWrapper
+        p-innerMainWrapper\">\r\n\r\n            <noscript>\r\n    <ul class=\"notifications\">\r\n
+        \       <li class=\"critical\">\r\n            <div class=\"notificationWrapper\">\r\n
+        \               <div>\r\n                    <div class=\"notificationInnerWrapper\">\r\n
+        \                       <div class=\"notificationText\"><strong>You need to
+        enable JavaScript to enjoy movies and TV on blinkbox.</strong>&nbsp;<a href=\"http://blinkbox.me/enablejs\">Find
+        out more</a></div>\r\n                    </div>\r\n                </div>\r\n
+        \           </div>\r\n        </li>\r\n    </ul>\r\n</noscript>\r\n\r\n    <ul
+        id=\"notificationsBox\"  class=\"notifications\">\r\n        <li  class=\"critical
+        jPotentiallyVisible\" data-notification=\"NoPlayback\">\r\n    <div class=\"notificationWrapper\">\r\n
+        \       <div>\r\n            <div class=\"notificationInnerWrapper\">\r\n
+        \                           <div class=\"ctaContainer\">\r\n                <form
+        class=\"jDismissNotification jAjaxSubmission\" action=\"/messaging/dismiss/n1\"
+        method=\"POST\">\r\n                    <button class=\"redButton jCloseButton\"
+        type=\"submit\">Ok, I understand</button>\r\n                </form>\r\n            </div>\r\n\r\n
+        \               <div  class=\"notificationText\"><strong>You can’t watch movies
+        and TV shows on your device just yet</strong><br />But you can still browse
+        and buy</div>\r\n                            <div class=\"ctaContainerMobile\">\r\n
+        \               <form class=\"jDismissNotification jAjaxSubmission\" action=\"/messaging/dismiss/n1\"
+        method=\"POST\">\r\n                    <button class=\"redButton jCloseButton\"
+        type=\"submit\">Ok, I understand</button>\r\n                </form>\r\n            </div>\r\n\r\n
+        \           </div>\r\n        </div>\r\n    </div>\r\n</li>\r\n\r\n\r\n\r\n
+        \   </ul>\r\n\r\n            \r\n\r\n    <div class=\"c-tabNavigation greyNoise\">\r\n\r\n
+        \       <div class=\"c-tabNavigation__searchTabsWrapper\">\r\n\r\n            <h1
+        class=\"p-title\">Search results for <strong class=\"p-title__searchTitle\">dark
+        knight</strong></h1>\r\n                <ul class=\"c-tabNavigation__searchTabs\">\r\n
+        \                       <li  class=\"c-tabNavigation__tab whiteNoise is-active\">\r\n
+        \                           <a    class=\"c-tabNavigation__link\">\r\n                                <span
+        class=\"c-tabNavigation__totalCount\">4</span>\r\n                                <span
+        class=\"c-tabNavigation__categoryName\">MOVIES</span>\r\n                            </a>\r\n
+        \                       </li>\r\n                        <li  class=\"c-tabNavigation__tab
+        whiteNoise is-disabled\">\r\n                            <a  data-tracking-click=\"{&quot;Action&quot;:&quot;TvTabClicked&quot;,&quot;Category&quot;:&quot;SearchResults&quot;,&quot;IsAjax&quot;:true,&quot;Label&quot;:&quot;disabled&quot;}\"
+        \ class=\"c-tabNavigation__link\">\r\n                                <span
+        class=\"c-tabNavigation__totalCount\">0</span>\r\n                                <span
+        class=\"c-tabNavigation__categoryName\">TV SHOWS</span>\r\n                            </a>\r\n
+        \                       </li>\r\n                </ul>\r\n        </div>\r\n
+        \   </div>\r\n    <div class=\"c-contentWrapper whiteNoise p-searchResults\">\r\n\r\n
+        \       <div class=\"b-maxWidthContainer\">\r\n\r\n            <section class=\"jsPaginationContainer\">\r\n
+        \               <h2 class=\"structure\">Search results</h2>\r\n                <ul
+        class=\"b-assetCollection p-assetCollection clearBoth jsPaginationItemsContainer\">\r\n
+        \                       <li class=\"b-assetCollection__item jListItem jsPaginationItem\">\r\n
+        \       <article  class=\"c-assetOverlay c-assetCollectionItem c-assetCollectionItem--dark\">\r\n
+        \   <div  class=\"c-assetOverlay__container\">\r\n        <a class=\"c-assetOverlay__imageContainer
+        j-watchLaterContainer textDecorationNone\" href=\"/movies/the-dark-knight-(28710)\"
+        data-tracking-click=\"{&quot;Action&quot;:&quot;MoviePage1ItemClicked&quot;,&quot;Category&quot;:&quot;SearchResults&quot;,&quot;IsAjax&quot;:false,&quot;Label&quot;:&quot;Item1&quot;}\">\r\n
+        \           \r\n\r\n<div  class=\"imageContainer pending c-imageContainer
+        c-imageContainer--collectionItemDark c-imageContainer--shadow\" >\r\n\r\n
+        \       <img alt=\"The Dark Knight\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAALIAAABkAQMAAAAYI/gZAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAANQTFRF////p8QbyAAAAAF0Uk5TAEDm2GYAAAAZSURBVBgZYxgFo2AUjIJRMApGwSgYBVQFAAlgAAFcIoUVAAAAAElFTkSuQmCC\"
+        class=\"placeholder c-imageContainer__image c-imageContainer__image--collectionItemDark\"
+        data-src-template=\"http://cdn2.blinkboxmedia.com/i/contentasset31/000/028/710/1gkiab4e/v=316/w={width};h={height};rm=Crop;q={quality}/image.jpg\"
+        data-aspect-ratio=\"1.77777778\" data-quality=\"85\" data-force-quality=\"true\"
+        />\r\n        <noscript>\r\n            <img alt=\"The Dark Knight\" src=\"http://cdn2.blinkboxmedia.com/i/contentasset31/000/028/710/1gkiab4e/v=316/w=234;h=132;rm=Crop;q=85/image.jpg\"
+        />\r\n        </noscript>\r\n\r\n\r\n</div>\r\n        </a>\r\n        \r\n
+        \   </div>\r\n    <div  class=\"c-assetCollectionItem__info\">\r\n        <h3
+        class=\"clearBoth\">\r\n            <a  class=\"c-assetCollectionItem__title\"
+        href=\"/movies/the-dark-knight-(28710)\" data-tracking-click=\"{&quot;Action&quot;:&quot;MoviePage1ItemClicked&quot;,&quot;Category&quot;:&quot;SearchResults&quot;,&quot;IsAjax&quot;:false,&quot;Label&quot;:&quot;Item1&quot;}\">\r\n
+        \               The Dark Knight\r\n            </a>\r\n        </h3>\r\n        <a
+        class=\"textDecorationNone\" href=\"/movies/the-dark-knight-(28710)\" data-tracking-click=\"{&quot;Action&quot;:&quot;MoviePage1ItemClicked&quot;,&quot;Category&quot;:&quot;SearchResults&quot;,&quot;IsAjax&quot;:false,&quot;Label&quot;:&quot;Item1&quot;}\">\r\n
+        \           <dl class=\"b-listFloat c-assetCollectionItem__metaData\">\r\n
+        \               <dt class=\"structure\">Certification</dt>\r\n                <dd
+        \ class=\"c-assetCollectionItem__metaDataItem b-listFloat__item bulletSeparator
+        textUpper c-assetCollectionItem__metaDataItem--dark c-assetCollectionItem__metaDataItem--no-subtitle\">CERT
+        12</dd>\r\n                <dt class=\"structure\">Running time</dt>\r\n                <dd
+        \ class=\"c-assetCollectionItem__metaDataItem c-assetCollectionItem__runtime
+        runTime b-listFloat__item bulletSeparator c-assetCollectionItem__metaDataItem--dark
+        c-assetCollectionItem__metaDataItem--no-subtitle\">2 HRS 32 MINS</dd>\r\n
+        \               \r\n            </dl>\r\n        </a>\r\n    </div>\r\n</article>\r\n\r\n
+        \   </li>\r\n    <li class=\"b-assetCollection__item jListItem jsPaginationItem\">\r\n
+        \       <article  class=\"c-assetOverlay c-assetCollectionItem c-assetCollectionItem--dark\">\r\n
+        \   <div  class=\"c-assetOverlay__container\">\r\n        <a class=\"c-assetOverlay__imageContainer
+        j-watchLaterContainer textDecorationNone\" href=\"/movies/the-dark-knight-rises-(37807)\"
+        data-tracking-click=\"{&quot;Action&quot;:&quot;MoviePage1ItemClicked&quot;,&quot;Category&quot;:&quot;SearchResults&quot;,&quot;IsAjax&quot;:false,&quot;Label&quot;:&quot;Item2&quot;}\">\r\n
+        \           \r\n\r\n<div  class=\"imageContainer pending c-imageContainer
+        c-imageContainer--collectionItemDark c-imageContainer--shadow\" >\r\n\r\n
+        \       <img alt=\"The Dark Knight Rises\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAALIAAABkAQMAAAAYI/gZAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAANQTFRF////p8QbyAAAAAF0Uk5TAEDm2GYAAAAZSURBVBgZYxgFo2AUjIJRMApGwSgYBVQFAAlgAAFcIoUVAAAAAElFTkSuQmCC\"
+        class=\"placeholder c-imageContainer__image c-imageContainer__image--collectionItemDark\"
+        data-src-template=\"http://cdn4.blinkboxmedia.com/i/contentasset15/000/037/807/gtqjeb2w/v=316/w={width};h={height};rm=Crop;q={quality}/image.jpg\"
+        data-aspect-ratio=\"1.77777778\" data-quality=\"85\" data-force-quality=\"true\"
+        />\r\n        <noscript>\r\n            <img alt=\"The Dark Knight Rises\"
+        src=\"http://cdn4.blinkboxmedia.com/i/contentasset15/000/037/807/gtqjeb2w/v=316/w=234;h=132;rm=Crop;q=85/image.jpg\"
+        />\r\n        </noscript>\r\n\r\n\r\n</div>\r\n        </a>\r\n        \r\n
+        \   </div>\r\n    <div  class=\"c-assetCollectionItem__info\">\r\n        <h3
+        class=\"clearBoth\">\r\n            <a  class=\"c-assetCollectionItem__title\"
+        href=\"/movies/the-dark-knight-rises-(37807)\" data-tracking-click=\"{&quot;Action&quot;:&quot;MoviePage1ItemClicked&quot;,&quot;Category&quot;:&quot;SearchResults&quot;,&quot;IsAjax&quot;:false,&quot;Label&quot;:&quot;Item2&quot;}\">\r\n
+        \               The Dark Knight Rises\r\n            </a>\r\n        </h3>\r\n
+        \       <a class=\"textDecorationNone\" href=\"/movies/the-dark-knight-rises-(37807)\"
+        data-tracking-click=\"{&quot;Action&quot;:&quot;MoviePage1ItemClicked&quot;,&quot;Category&quot;:&quot;SearchResults&quot;,&quot;IsAjax&quot;:false,&quot;Label&quot;:&quot;Item2&quot;}\">\r\n
+        \           <dl class=\"b-listFloat c-assetCollectionItem__metaData\">\r\n
+        \               <dt class=\"structure\">Certification</dt>\r\n                <dd
+        \ class=\"c-assetCollectionItem__metaDataItem b-listFloat__item bulletSeparator
+        textUpper c-assetCollectionItem__metaDataItem--dark c-assetCollectionItem__metaDataItem--no-subtitle\">CERT
+        12</dd>\r\n                <dt class=\"structure\">Running time</dt>\r\n                <dd
+        \ class=\"c-assetCollectionItem__metaDataItem c-assetCollectionItem__runtime
+        runTime b-listFloat__item bulletSeparator c-assetCollectionItem__metaDataItem--dark
+        c-assetCollectionItem__metaDataItem--no-subtitle\">2 HRS 44 MINS</dd>\r\n
+        \               \r\n            </dl>\r\n        </a>\r\n    </div>\r\n</article>\r\n\r\n
+        \   </li>\r\n    <li class=\"b-assetCollection__item jListItem jsPaginationItem\">\r\n
+        \       <article  class=\"c-assetOverlay c-assetCollectionItem c-assetCollectionItem--dark\">\r\n
+        \   <div  class=\"c-assetOverlay__container\">\r\n        <a class=\"c-assetOverlay__imageContainer
+        j-watchLaterContainer textDecorationNone\" href=\"/movies/batman-the-dark-knight-returns-part-1-(48886)\"
+        data-tracking-click=\"{&quot;Action&quot;:&quot;MoviePage1ItemClicked&quot;,&quot;Category&quot;:&quot;SearchResults&quot;,&quot;IsAjax&quot;:false,&quot;Label&quot;:&quot;Item3&quot;}\">\r\n
+        \           \r\n\r\n<div  class=\"imageContainer pending c-imageContainer
+        c-imageContainer--collectionItemDark c-imageContainer--shadow\" >\r\n\r\n
+        \       <img alt=\"Batman: The Dark Knight Returns Part 1\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAALIAAABkAQMAAAAYI/gZAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAANQTFRF////p8QbyAAAAAF0Uk5TAEDm2GYAAAAZSURBVBgZYxgFo2AUjIJRMApGwSgYBVQFAAlgAAFcIoUVAAAAAElFTkSuQmCC\"
+        class=\"placeholder c-imageContainer__image c-imageContainer__image--collectionItemDark\"
+        data-src-template=\"http://cdn2.blinkboxmedia.com/i/contentasset31/000/048/886/zbk1pi2r/v=316/w={width};h={height};rm=Crop;q={quality}/image.jpg\"
+        data-aspect-ratio=\"1.77777778\" data-quality=\"85\" data-force-quality=\"true\"
+        />\r\n        <noscript>\r\n            <img alt=\"Batman: The Dark Knight
+        Returns Part 1\" src=\"http://cdn1.blinkboxmedia.com/i/contentasset31/000/048/886/zbk1pi2r/v=316/w=234;h=132;rm=Crop;q=85/image.jpg\"
+        />\r\n        </noscript>\r\n\r\n\r\n</div>\r\n        </a>\r\n        \r\n
+        \   </div>\r\n    <div  class=\"c-assetCollectionItem__info\">\r\n        <h3
+        class=\"clearBoth\">\r\n            <a  class=\"c-assetCollectionItem__title
+        jEllipsis\" href=\"/movies/batman-the-dark-knight-returns-part-1-(48886)\"
+        data-tracking-click=\"{&quot;Action&quot;:&quot;MoviePage1ItemClicked&quot;,&quot;Category&quot;:&quot;SearchResults&quot;,&quot;IsAjax&quot;:false,&quot;Label&quot;:&quot;Item3&quot;}\">\r\n
+        \               Batman: The Dark Knight Returns Part 1\r\n            </a>\r\n
+        \       </h3>\r\n        <a class=\"textDecorationNone\" href=\"/movies/batman-the-dark-knight-returns-part-1-(48886)\"
+        data-tracking-click=\"{&quot;Action&quot;:&quot;MoviePage1ItemClicked&quot;,&quot;Category&quot;:&quot;SearchResults&quot;,&quot;IsAjax&quot;:false,&quot;Label&quot;:&quot;Item3&quot;}\">\r\n
+        \           <dl class=\"b-listFloat c-assetCollectionItem__metaData\">\r\n
+        \               <dt class=\"structure\">Certification</dt>\r\n                <dd
+        \ class=\"c-assetCollectionItem__metaDataItem b-listFloat__item bulletSeparator
+        textUpper c-assetCollectionItem__metaDataItem--dark c-assetCollectionItem__metaDataItem--no-subtitle\">CERT
+        15</dd>\r\n                <dt class=\"structure\">Running time</dt>\r\n                <dd
+        \ class=\"c-assetCollectionItem__metaDataItem c-assetCollectionItem__runtime
+        runTime b-listFloat__item bulletSeparator c-assetCollectionItem__metaDataItem--dark
+        c-assetCollectionItem__metaDataItem--no-subtitle\">1 HR 15 MINS</dd>\r\n                \r\n
+        \           </dl>\r\n        </a>\r\n    </div>\r\n</article>\r\n\r\n    </li>\r\n
+        \   <li class=\"b-assetCollection__item jListItem jsPaginationItem\">\r\n
+        \       <article  class=\"c-assetOverlay c-assetCollectionItem c-assetCollectionItem--dark\">\r\n
+        \   <div  class=\"c-assetOverlay__container\">\r\n        <a class=\"c-assetOverlay__imageContainer
+        j-watchLaterContainer textDecorationNone\" href=\"/movies/batman-the-dark-knight-returns-part-2-(54907)\"
+        data-tracking-click=\"{&quot;Action&quot;:&quot;MoviePage1ItemClicked&quot;,&quot;Category&quot;:&quot;SearchResults&quot;,&quot;IsAjax&quot;:false,&quot;Label&quot;:&quot;Item4&quot;}\">\r\n
+        \           \r\n\r\n<div  class=\"imageContainer pending c-imageContainer
+        c-imageContainer--collectionItemDark c-imageContainer--shadow\" >\r\n\r\n
+        \       <img alt=\"Batman: The Dark Knight Returns Part 2\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAALIAAABkAQMAAAAYI/gZAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAANQTFRF////p8QbyAAAAAF0Uk5TAEDm2GYAAAAZSURBVBgZYxgFo2AUjIJRMApGwSgYBVQFAAlgAAFcIoUVAAAAAElFTkSuQmCC\"
+        class=\"placeholder c-imageContainer__image c-imageContainer__image--collectionItemDark\"
+        data-src-template=\"http://cdn3.blinkboxmedia.com/i/contentasset31/000/054/907/32xg0ty2/v=316/w={width};h={height};rm=Crop;q={quality}/image.jpg\"
+        data-aspect-ratio=\"1.77777778\" data-quality=\"85\" data-force-quality=\"true\"
+        />\r\n        <noscript>\r\n            <img alt=\"Batman: The Dark Knight
+        Returns Part 2\" src=\"http://cdn2.blinkboxmedia.com/i/contentasset31/000/054/907/32xg0ty2/v=316/w=234;h=132;rm=Crop;q=85/image.jpg\"
+        />\r\n        </noscript>\r\n\r\n\r\n</div>\r\n        </a>\r\n        \r\n
+        \   </div>\r\n    <div  class=\"c-assetCollectionItem__info\">\r\n        <h3
+        class=\"clearBoth\">\r\n            <a  class=\"c-assetCollectionItem__title
+        jEllipsis\" href=\"/movies/batman-the-dark-knight-returns-part-2-(54907)\"
+        data-tracking-click=\"{&quot;Action&quot;:&quot;MoviePage1ItemClicked&quot;,&quot;Category&quot;:&quot;SearchResults&quot;,&quot;IsAjax&quot;:false,&quot;Label&quot;:&quot;Item4&quot;}\">\r\n
+        \               Batman: The Dark Knight Returns Part 2\r\n            </a>\r\n
+        \       </h3>\r\n        <a class=\"textDecorationNone\" href=\"/movies/batman-the-dark-knight-returns-part-2-(54907)\"
+        data-tracking-click=\"{&quot;Action&quot;:&quot;MoviePage1ItemClicked&quot;,&quot;Category&quot;:&quot;SearchResults&quot;,&quot;IsAjax&quot;:false,&quot;Label&quot;:&quot;Item4&quot;}\">\r\n
+        \           <dl class=\"b-listFloat c-assetCollectionItem__metaData\">\r\n
+        \               <dt class=\"structure\">Certification</dt>\r\n                <dd
+        \ class=\"c-assetCollectionItem__metaDataItem b-listFloat__item bulletSeparator
+        textUpper c-assetCollectionItem__metaDataItem--dark c-assetCollectionItem__metaDataItem--no-subtitle\">CERT
+        15</dd>\r\n                <dt class=\"structure\">Running time</dt>\r\n                <dd
+        \ class=\"c-assetCollectionItem__metaDataItem c-assetCollectionItem__runtime
+        runTime b-listFloat__item bulletSeparator c-assetCollectionItem__metaDataItem--dark
+        c-assetCollectionItem__metaDataItem--no-subtitle\">1 HR 16 MINS</dd>\r\n                \r\n
+        \           </dl>\r\n        </a>\r\n    </div>\r\n</article>\r\n\r\n    </li>\r\n\r\n
+        \               </ul>\r\n\r\n                \r\n\r\n\r\n            </section>\r\n\r\n
+        \       </div>\r\n\r\n    </div>\r\n\r\n        </div>\r\n    </main>\r\n\r\n
+        \       <footer class=\"c-footer is-responsive divider\">\r\n            \r\n<div
+        class=\"c-footer__about\">\r\n    <h2 class=\"structure\">About blinkbox</h2>\r\n
+        \   <ul class=\"b-maxWidthContainer\">\r\n        <li class=\"g-infoItem c-footer__about__item
+        c-infoItem c-infoItem--help\">\r\n            <a class=\"textDecorationNone\"
+        href=\"http://support.blinkbox.com\">\r\n                <h3 class=\"c-infoItem__title\">Help
+        &amp; support</h3>\r\n                <p class=\"c-infoItem__desc\">Let us
+        help you sort out any problems as quickly as possible, with the minimum of
+        fuss.</p>\r\n            </a>\r\n        </li>\r\n        <li class=\"g-infoItem
+        c-footer__about__item c-infoItem c-infoItem--how\">\r\n            <a class=\"textDecorationNone\"
+        href=\"/about\">\r\n                <h3 class=\"c-infoItem__title\">How it
+        works</h3>\r\n                <p class=\"c-infoItem__desc\">Discover everything
+        you need to know about how to watch and where to watch blinkbox.</p>\r\n            </a>\r\n
+        \       </li>\r\n        <li class=\"g-infoItem c-footer__about__item c-infoItem
+        c-infoItem--uv\">\r\n            <a class=\"textDecorationNone\" href=\"/ultraviolet\">\r\n
+        \               <h3 class=\"c-infoItem__title\">UltraViolet</h3>\r\n                <p
+        class=\"c-infoItem__desc\">Create digital copies of your DVDs and Blu-rays
+        and watch, store and share online.</p>\r\n            </a>\r\n        </li>\r\n
+        \       <li class=\"g-infoItem c-footer__about__item c-infoItem c-infoItem--giftcard\">\r\n
+        \           <a class=\"textDecorationNone\" href=\"http://www.blinkbox.com/redeem\">\r\n
+        \               <h3 class=\"c-infoItem__title\">blinkbox cards</h3>\r\n                    <p
+        class=\"c-infoItem__desc\">Redeem your blinkbox Movie &amp; TV Cards and hudl2
+        movie magic codes.</p>\r\n            </a>\r\n        </li>\r\n    </ul>\r\n</div>\r\n<div
+        class=\"divider\">\r\n    <div class=\"b-maxWidthContainer c-footer__social\">\r\n
+        \       <h2 class=\"c-footer__social__title\">Follow us</h2>\r\n        <p
+        class=\"c-footer__social__desc\">Keep up to date with all the latest movie
+        and TV news, competitions and giveaways</p>\r\n        <ul class=\"b-listInline\">\r\n
+        \           <li class=\"b-listInline__item\">\r\n                <a class=\"c-socialLink
+        c-socialLink--facebook ir\" href=\"https://www.facebook.com/blinkbox\" target=\"_blank\">Facebook</a>\r\n
+        \           </li>\r\n            <li class=\"b-listInline__item\">\r\n                <a
+        class=\"c-socialLink c-socialLink--twitter ir\" href=\"https://twitter.com/blinkbox\"
+        target=\"_blank\">Twitter</a>\r\n            </li>\r\n            <li class=\"b-listInline__item\">\r\n
+        \               <a class=\"c-socialLink c-socialLink--google ir\" href=\"https://plus.google.com/+blinkbox/\"
+        target=\"_blank\">Google+</a>\r\n            </li>\r\n            <li class=\"b-listInline__item\">\r\n
+        \               <a class=\"c-socialLink c-socialLink--blog ir\" href=\"http://blog.blinkbox.com/\"
+        target=\"_blank\">Blog</a>\r\n            </li>\r\n        </ul>\r\n    </div>\r\n</div>\r\n
+        \           <div class=\"divider\">\r\n                <h2 class=\"structure\">blinkbox
+        links</h2>\r\n<div class=\"b-maxWidthContainer\">\r\n    <ul class=\"c-footer__links\">\r\n
+        \       <li class=\"c-footer__links__item\">\r\n            <a class=\"c-footer__links__link
+        textDecorationNone\" href=\"/about\">About blinkbox</a>\r\n        </li>\r\n
+        \       <li class=\"c-footer__links__item\">\r\n            <a class=\"c-footer__links__link
+        textDecorationNone\" href=\"https://support.blinkbox.com/hc/en-gb/articles/206619957\">Terms
+        &amp; Conditions</a>\r\n        </li>\r\n        <li class=\"c-footer__links__item\">\r\n
+        \           <a class=\"c-footer__links__link textDecorationNone\" href=\"https://support.blinkbox.com/hc/en-gb/articles/205879628\">Privacy
+        Policy</a>\r\n        </li>\r\n        <li class=\"c-footer__links__item\">\r\n
+        \           <a class=\"c-footer__links__link textDecorationNone\" href=\"https://support.blinkbox.com/hc/en-gb/articles/206619987\">Cookie
+        Policy</a>\r\n        </li>\r\n    </ul>\r\n    <p class=\"c-footer__copyright\">&copy;
+        Copyright 2015 blinkbox Entertainment Limited. <span class=\"nowrap\">All
+        rights reserved.</span></p>\r\n</div>\r\n\r\n            </div>\r\n        </footer>\r\n\r\n
+        \   \r\n\r\n    <!--\r\n    DoubleClick DART Natural Search Standard Tracking
+        Tag for DS3\r\n    DFA Network - Quantum - DFA EMEA (1238) : DS Agency - Quantum
+        Media - BLM Holdings Ltd (20200000000000017) : DS Advertiser - Blinkbox -
+        Natural Search (21700000000006405)\r\n    Please do not remove\r\n    Tag
+        should be placed at the top of the page, after opening body tag and before
+        DoubleClick Spotlight or Floodlight tag(s)\r\n    Creation Date: 03-14-2012\r\n
+        \   -->\r\n\r\n    <script type='text/javascript'>\r\n        // DoubleClik
+        DART Natural Search Tracking Code\r\n        if (document.referrer && document.location.protocol
+        !== 'https:') {\r\n            var ord = Math.random() * 1000000000000;\r\n
+        \           document.write('<SCRIPT language=\"JavaScript1.1\" SRC=\"http://ad.doubleclick.net/adj/N1238.nso.codesrv/B6429474;dcadv=3584537;sz=1x2;ord='
+        + ord + '?\"><\\/SCRIPT>');\r\n        }\r\n    </script>\r\n\r\n    \r\n
+        \   \r\n    <script src=\"//ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js\"></script>\r\n<script>(window.jQuery)||document.write('<script
+        src=\"/bundles/scripts/339/JQuery_v1_11_1.js\"><\\/script>');</script>\r\n\r\n
+        \   <script type=\"text/javascript\">\r\n        // Add jQuery noConflict
+        to avoid prototype clashes\r\n        jQuery.noConflict();\r\n    </script>\r\n\r\n
+        \   \r\n    <script src=\"/bundles/scripts/339/Global.js?v=zPB5APghGJ5qJD-wIFnHkhdky08vuOnJAeDFoY2h2FI1\"></script>\r\n\r\n\r\n
+        \       <script type=\"text/javascript\">\r\n            jQuery(document).ready(function
+        () {\r\n                BlinkBox.Analytics.init({\"affiliateWindowMerchantId\":\"2481\",\"affiliateWindowTestEnabled\":true,\"deviceFamilyId\":\"1\",\"dfaCatId\":\"searc908\",\"dfaTypeId\":\"blink955\",\"floodlightSrc\":\"3343247\",\"globalId\":\"0\",\"googleAnalyticsId\":\"UA-3023792-1\",\"memberId\":\"0\",\"searchTerm\":\"dark
+        knight\",\"trackComscoreEnabled\":true,\"trackDFAEnabled\":true,\"trackPerfectStormEnabled\":true,\"userSegment\":\"Anonymous\",\"userToken\":\"4f0d8b5c0ecb4205898c1f1623c7d5c1\"});\r\n
+        \           });\r\n        </script>\r\n\r\n    \r\n    <script src=\"/bundles/scripts/339/Search.js?v=BMSeO5kQJueMrQ0bQyUhrx0Q8T-1P8zYShiWtwxU8AE1\"></script>\r\n\r\n\r\n
+        \   \r\n\r\n\r\n\r\n    \r\n\r\n    \r\n\r\n\r\n    \r\n    <script type=\"text/javascript\">\r\n
+        \   setTimeout(function () {\r\n        var a = document.createElement(\"script\");\r\n
+        \       var b = document.getElementsByTagName(\"script\")[0];\r\n        a.src
+        = document.location.protocol + \"//script.crazyegg.com/pages/scripts/0029/4739.js?\"
+        + Math.floor(new Date().getTime() / 3600000);\r\n        a.async = true; a.type
+        = \"text/javascript\";\r\n        b.parentNode.insertBefore(a, b);\r\n    },
+        1);\r\n</script>\r\n</body>\r\n</html>\r\n"
+    http_version: 
+  recorded_at: Wed, 30 Dec 2015 07:27:38 GMT
+recorded_with: VCR 3.0.1

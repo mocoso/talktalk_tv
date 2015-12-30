@@ -1,7 +1,7 @@
 require 'spec_helper'
 require 'blinkbox_films'
 
-describe 'A search' do
+describe 'A search', :vcr do
   context 'with zero results' do
     it { expect(BlinkboxFilms::Search.new.search('qwerty')).to be_empty }
   end
