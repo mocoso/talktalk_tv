@@ -6,20 +6,26 @@ module BlinkboxFilms
   class Search
     def search(query)
       r = response(query)
-      if r.ok?
-        rental_fragments(r.body).map { |f|
-          {
-            :title => rental_title(f),
-            :url => rental_url(f),
-            :image_url => rental_image_url(f)
-          }
+      rentals = rental_fragments(r.body).map { |f|
+        {
+          :title => rental_title(f),
+          :url => rental_url(f),
+          :image_url => rental_image_url(f)
         }
+      }
+
+      if rentals.empty? & !no_results_page?(r.body)
+        raise BlinkboxFilms::SearchResultsPageNotRecognised
       else
-        []
+        rentals
       end
     end
 
     private
+    def no_results_page?(page)
+      page.include?('no results found for')
+    end
+
     def response(query)
       HTTPClient.new.get('http://www.blinkbox.com/search', { 'Search' => query })
     end
