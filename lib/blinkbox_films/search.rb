@@ -7,13 +7,13 @@ module BlinkboxFilms
     def search(query)
       r = response(query)
       films = film_fragments(r.body).map { |f|
-        {
-          :title => film_title(f),
-          :url => film_url(f),
-          :image_url => film_image_url(f),
-          :certificate => film_certificate(f),
-          :running_time_in_minutes => film_running_time_in_minutes(f)
-        }
+        Film.new(
+          title: film_title(f),
+          url: film_url(f),
+          image_url: film_image_url(f),
+          certificate: film_certificate(f),
+          running_time_in_minutes: film_running_time_in_minutes(f)
+        )
       }
 
       if films.empty? & !no_results_page?(r.body)
