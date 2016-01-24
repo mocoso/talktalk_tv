@@ -6,20 +6,20 @@ module BlinkboxFilms
   class Search
     def search(query)
       r = response(query)
-      rentals = rental_fragments(r.body).map { |f|
+      films = film_fragments(r.body).map { |f|
         {
-          :title => rental_title(f),
-          :url => rental_url(f),
-          :image_url => rental_image_url(f),
-          :certificate => rental_certificate(f),
-          :running_time_in_minutes => rental_running_time_in_minutes(f)
+          :title => film_title(f),
+          :url => film_url(f),
+          :image_url => film_image_url(f),
+          :certificate => film_certificate(f),
+          :running_time_in_minutes => film_running_time_in_minutes(f)
         }
       }
 
-      if rentals.empty? & !no_results_page?(r.body)
+      if films.empty? & !no_results_page?(r.body)
         raise BlinkboxFilms::SearchResultsPageNotRecognised
       else
-        rentals
+        films
       end
     end
 
@@ -32,35 +32,35 @@ module BlinkboxFilms
       HTTPClient.new.get('http://www.blinkbox.com/search', { 'Search' => query })
     end
 
-    def rental_fragments(page)
+    def film_fragments(page)
       Nokogiri::HTML(page).css('.p-searchResults li.b-assetCollection__item')
     end
 
-    def rental_title(fragment)
+    def film_title(fragment)
       fragment.css('h3').first.content.strip
     end
 
-    def rental_url(fragment)
-      u = URI.parse(extract_rental_path_or_url(fragment))
+    def film_url(fragment)
+      u = URI.parse(extract_film_path_or_url(fragment))
       u.host ||= 'www.blinkbox.com'
       u.scheme ||= 'http'
       u.to_s
     end
 
-    def extract_rental_path_or_url(fragment)
+    def extract_film_path_or_url(fragment)
       fragment.css('h3 a').first.attributes['href'].value
     end
 
-    def rental_image_url(fragment)
+    def film_image_url(fragment)
       fragment.css('noscript img').first.attributes['src'].value
     end
 
-    def rental_certificate(fragment)
+    def film_certificate(fragment)
       match = fragment.css('.c-assetCollectionItem__metaDataItem').map { |n| %r{CERT (\S+)}.match(n.content) }.compact.first
       match && match[1]
     end
 
-    def rental_running_time_in_minutes(fragment)
+    def film_running_time_in_minutes(fragment)
       match = fragment.css('.c-assetCollectionItem__metaDataItem').map { |n| %r{(\d+) HRS? (\d+) MINS?}.match(n.content) }.compact.first
       match && (match[1].to_i * 60 + match[2].to_i)
     end
