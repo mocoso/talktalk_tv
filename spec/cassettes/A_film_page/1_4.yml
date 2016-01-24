@@ -1,0 +1,756 @@
+---
+http_interactions:
+- request:
+    method: get
+    uri: http://www.blinkbox.com/movies/the-dark-knight-(28710)
+    body:
+      encoding: UTF-8
+      string: ''
+    headers:
+      User-Agent:
+      - HTTPClient/1.0 (2.7.1, ruby 2.2.4 (2015-12-16))
+      Accept:
+      - "*/*"
+      Date:
+      - Sat, 30 Jan 2016 07:10:02 GMT
+  response:
+    status:
+      code: 200
+      message: OK
+    headers:
+      Cache-Control:
+      - private
+      Set-Cookie:
+      - rocky=PChOhrlraSzfFZpJ4eMtgKVbOkEqLnuN2Qk1xFeigyJ7SEG3EN1Hq1HkXnKXrQLt4ODI8WePjra2U36uDMv0Ps47nd35hxhY3iQB02TglwkzEzWZygcOZQcXy2aRd_ejTcefBaF4KyQdZkiB01fiHyGfjoHRBsS-f4OTFG7qr30nltdBLfwSljmJPEk2DjuW;
+        domain=.blinkbox.com; expires=Wed, 30-Mar-2016 07:10:02 GMT; path=/; HttpOnly
+      - s_viewedMsgs=1,device; path=/; HttpOnly
+      - shortbread=M0Zf75_6lZDLGpj5nvCYJnAQorGDcg4sHv2Bpf_0dohU1k5pNgJPIAK0gSMFuff3KqcGhcNLL2KnVlJVbndBsA;
+        domain=.blinkbox.com; expires=Wed, 30-Mar-2016 07:10:02 GMT; path=/; HttpOnly
+      Content-Length:
+      - '65674'
+      Content-Type:
+      - text/html; charset=utf-8
+      Server:
+      - Footprint Distributor V4.10
+      Content-Security-Policy:
+      - frame-ancestors 'self'
+      X-Content-Type-Options:
+      - nosniff
+      X-Frame-Options:
+      - SAMEORIGIN
+      X-Xss-Protection:
+      - '1'
+      Date:
+      - Sat, 30 Jan 2016 07:10:02 GMT
+      Connection:
+      - keep-alive
+    body:
+      encoding: UTF-8
+      string: "\r\n<!DOCTYPE html>\r\n\r\n<!--[if IE 7]>    <html class=\"ie7\" lang=\"en\">
+        <![endif]-->\r\n<!--[if IE 8]>    <html class=\"ie8\" lang=\"en\"> <![endif]-->\r\n<!--[if
+        IE 9]>    <html class=\"ie9\" lang=\"en\"> <![endif]-->\r\n<!--[if gt IE 9]><!-->\r\n<html
+        lang=\"en\">\r\n<!--<![endif]-->\r\n<head>\r\n    \r\n    <link rel=\"dns-prefetch\"
+        href=\"//ajax.googleapis.com\" />\n    <link rel=\"dns-prefetch\" href=\"//cdn1.blinkboxmedia.com\"
+        />\n    <link rel=\"dns-prefetch\" href=\"//cdn2.blinkboxmedia.com\" />\n
+        \   <link rel=\"dns-prefetch\" href=\"//cdn3.blinkboxmedia.com\" />\n    <link
+        rel=\"dns-prefetch\" href=\"//cdn4.blinkboxmedia.com\" />\r\n    <title>Watch
+        The Dark Knight Online | Buy or Rent with TalkTalk TV Store</title>\r\n\r\n
+        \   <meta content=\"Watch The Dark Knight online on TalkTalk TV. Thousands
+        of other movies available to watch or download without subscription.\" name=\"description\"
+        />\r\n\r\n    <link href=\"http://www.blinkbox.com/movies/the-dark-knight-(28710)\"
+        rel=\"canonical\" />\r\n\r\n\r\n\r\n\r\n    \r\n\r\n\r\n\r\n\r\n            <meta
+        property=\"og:title\" content=\"Watch The Dark Knight instantly on TalkTalk
+        TV\" />            \r\n\r\n            <meta property=\"og:description\" content=\"TalkTalk
+        TV has thousands of blockbuster movies and TV shows for you to enjoy right
+        now. Christian Bale once again embodies the man behind the mask in The Dark
+        Knight. The film reunites Bale with director Christopher Nolan and takes Batman
+        across the world in his quest to fight a growing criminal threat. With the
+        help of Lieutenant Jim Gordon (Gary Oldman) and District Attorney Harvey Dent
+        (Aaron Eckhart), the new &#39;white knight&#39;, Batman has been making headway
+        against local crime ... ... that is until a rising criminal mastermind known
+        simply as The Joker (Heath Ledger) unleashes a fresh reign of chaos across
+        Gotham City. To stop this devious new menace -- Batman&#39;s most personal
+        and vicious enemy yet -- he will have to use every high-tech weapon in his
+        arsenal and confront everything he believes. There is still plenty of work
+        to be done for Batman is Gotham is ever to rid itself of its villainous underbelly.\"
+        />            \r\n\r\n            <meta property=\"og:image\" content=\"http://cdn4.blinkboxmedia.com/i/contentasset31/000/028/710/1gkiab4e/v=317/w=1400;h=630;rm=CropBottom;q=70/image.jpg\"
+        />            \r\n\r\n            <meta property=\"og:url\" content=\"http://www.blinkbox.com/movies/the-dark-knight-(28710)\"
+        />            \r\n\r\n            <meta property=\"og:type\" content=\"video.movie\"
+        />            \r\n\r\n            <meta property=\"og:site_name\" content=\"TalkTalk
+        TV Store\" />            \r\n\r\n            <meta property=\"fb:app_id\"
+        content=\"211002867393\" />            \r\n\r\n    \r\n    <meta http-equiv=\"X-UA-Compatible\"
+        content=\"requiresActiveX=true,IE=edge\" />\r\n<meta name=\"msXboxApplication-ID\"
+        content=\"384B07D1\" />\r\n<meta name=\"msapplication-tap-highlight\" content=\"no\"
+        />\r\n\n\n\n<link rel=\"apple-touch-icon\" sizes=\"57x57\" href=\"/VersionedContent/P0amHs7IL0LFHlzGrI2GZw/Images/FavIcon/apple-touch-icon-57x57.png\">\n<link
+        rel=\"apple-touch-icon\" sizes=\"114x114\" href=\"/VersionedContent/X8LyYIK11V5p4A2zXnKhdw/Images/FavIcon/apple-touch-icon-114x114.png\">\n<link
+        rel=\"apple-touch-icon\" sizes=\"72x72\" href=\"/VersionedContent/SOiQO2EycfNvzHb3JFG3Q/Images/FavIcon/apple-touch-icon-72x72.png\">\n<link
+        rel=\"apple-touch-icon\" sizes=\"144x144\" href=\"/VersionedContent/3j2RH06ZBvPk0PCR5z8O5g/Images/FavIcon/apple-touch-icon-144x144.png\">\n<link
+        rel=\"apple-touch-icon\" sizes=\"60x60\" href=\"/VersionedContent/MwQq1UERDrGoSShKkx29Eg/Images/FavIcon/apple-touch-icon-60x60.png\">\n<link
+        rel=\"apple-touch-icon\" sizes=\"120x120\" href=\"/VersionedContent/4yIabYQPQUn8YDe1rg5aw/Images/FavIcon/apple-touch-icon-120x120.png\">\n<link
+        rel=\"apple-touch-icon\" sizes=\"76x76\" href=\"/VersionedContent/W4pMZAkWpv3IxUisyUCpSw/Images/FavIcon/apple-touch-icon-76x76.png\">\n<link
+        rel=\"apple-touch-icon\" sizes=\"152x152\" href=\"/VersionedContent/K9XGSKd3P4dh52tfv5bxg/Images/FavIcon/apple-touch-icon-152x152.png\">\n<meta
+        name=\"apple-mobile-web-app-title\" content=\"TalkTalk TV Store\">\n<link
+        rel=\"icon\" type=\"image/png\" href=\"/VersionedContent/HClvhH27qGCeTyx158WP2g/Images/FavIcon/favicon-196x196.png\"
+        sizes=\"196x196\">\n<link rel=\"icon\" type=\"image/png\" href=\"/VersionedContent/0nhLG0sXnAtm2rnILPiNQ/Images/FavIcon/favicon-192x192.png\"
+        sizes=\"192x192\">\n<link rel=\"icon\" type=\"image/png\" href=\"/VersionedContent/agqvSC22OkgIwwgVECJ8Ng/Images/FavIcon/favicon-160x160.png\"
+        sizes=\"160x160\">\n<link rel=\"icon\" type=\"image/png\" href=\"/VersionedContent/l7YIrgSMi3mjDgt68DflA/Images/FavIcon/favicon-96x96.png\"
+        sizes=\"96x96\">\n<link rel=\"icon\" type=\"image/png\" href=\"/VersionedContent/qJNzsR2s3rYCO1EwKDgow/Images/FavIcon/favicon-16x16.png\"
+        sizes=\"16x16\">\n<link rel=\"icon\" type=\"image/png\" href=\"/VersionedContent/xcz31IKBGzGUH2vxgA524g/Images/FavIcon/favicon-32x32.png\"
+        sizes=\"32x32\">\n<meta name=\"msapplication-TileColor\" content=\"#34a8e2\">\n<meta
+        name=\"msapplication-TileImage\" content=\"/VersionedContent/qaZRvCLCnuOYrMs2Qd6ZRg/Images/FavIcon/mstile-144x144.png\">\n<meta
+        name=\"application-name\" content=\"TalkTalk TV Store\">\r\n    <link href=\"/Css-Generated-Versioned/Layout/Responsive/Responsive.57fe30bd.css\"
+        media=\"screen\" rel=\"stylesheet\" type=\"text/css\" />\r\n    \r\n    <link
+        href=\"/Css-Generated-Versioned/Less/Pages/Movie/Movie.cbfe9ba9.css\" media=\"screen\"
+        rel=\"stylesheet\" type=\"text/css\" />\r\n\r\n    \r\n\r\n    <meta name=\"viewport\"
+        content=\"width=device-width, initial-scale = 1.0, user-scalable = no\">\r\n\r\n
+        \   <!--[if lte IE 8]><script src=\"/bundles/scripts/341/SharedRespond.js?v=pqdAqYDnaNnKhR2cT1rPZJA1iRKoPCHJQ6OXsj8KRos1\"></script>\r\n<![endif]-->\r\n
+        \   \r\n        <script type=\"text/javascript\">\r\n            (function
+        (i, s, o, g, r, a, m) {\r\n                i['GoogleAnalyticsObject'] = r;
+        i[r] = i[r] || function () {\r\n                    (i[r].q = i[r].q || []).push(arguments)\r\n
+        \               }, i[r].l = 1 * new Date(); a = s.createElement(o),\r\n                    m
+        = s.getElementsByTagName(o)[0]; a.async = 1; a.src = g; m.parentNode.insertBefore(a,
+        m)\r\n            })(window, document, 'script', '//www.google-analytics.com/analytics.js',
+        'ga');\r\n\r\n\r\n        </script>\r\n\r\n        <!-- Optimizely code -->\r\n
+        \   <script>\r\n        window['optimizely'] = window['optimizely'] || [];\r\n
+        \       window['optimizely'].push([\"customTag\", \"isUserLoggedIn\", \"False\"]);\r\n
+        \       window['optimizely'].push([\"customTag\", \"userSegmentationType\",
+        \"Anonymous\"]);\r\n    </script>\r\n    <script src=\"//cdn.optimizely.com/js/2581840084.js\"></script>\r\n
+        \   <!-- End of Optimizely code -->\r\n\r\n</head>\r\n<body class=\"nojs\">\r\n
+        \   <script type='text/javascript'>window.onerror = function(message, url,
+        lineNumber) {var a=encodeURIComponent||escape; (new Image).src='http\\x3a\\x2f\\x2fwww.blinkbox.com\\x2fArea\\x2fServices\\x2fTracking\\x2fClientError'+'\\x3furl\\x3d'
+        + a(url) + '\\x26message\\x3d' + a(message) + '\\x26line\\x3d' + a(lineNumber)
+        ;return true; };</script>\r\n<script type=\"text/javascript\">\r\n    var
+        body = document.getElementsByTagName('body');\r\n    body[0].className = body[0].className.replace(new
+        RegExp('(\\\\s|^)' + 'nojs' + '(\\\\s|$)'), 'js');    \r\n</script>\r\n\r\n<script
+        src=\"/bundles/scripts/341/Modernizr.js?v=wwCwrbs0IQmNgQMV5mEMMiUNbdmeWu7N-PAfKPJ3dHQ1\"></script>\r\n\r\n\r\n\r\n<script
+        language=\"javascript\">\r\n    (function () {\r\n        if (!navigator.userAgent.match(/Windows
+        Phone 8\\.0/)) {\r\n            var msViewportStyle = document.createElement(\"style\");\r\n
+        \           msViewportStyle.type = \"text\\/css\";\r\n            \r\n            //
+        createTextNode() doesn't work on the style tag in IE8 and creates a console
+        error, so we don't do the below.\r\n            // The styleSheet property
+        on a style element is recognised by IE but undefined on other browsers.\r\n
+        \           if (typeof msViewportStyle.styleSheet == \"undefined\") {\r\n
+        \               msViewportStyle.appendChild(\r\n                    document.createTextNode(\"@-ms-viewport{width:device-width}\")\r\n
+        \               );\r\n            }\r\n\r\n            document.getElementsByTagName(\"head\")[0].appendChild(msViewportStyle);\r\n
+        \       }\r\n    })();\r\n</script>\r\n    \r\n    \r\n\r\n    <header  class=\"globalHeader
+        globalHeaderFixed\" id=\"jsHeader\">\r\n\r\n    \r\n    \r\n    <div class=\"globalHeaderWrapper\">\r\n
+        \       <div class=\"logo\">\r\n            \r\n                <a title=\"TalkTalk
+        TV\"\r\n                    href=\"/\"\r\n                    data-tracking-click=\"{&quot;Action&quot;:&quot;BlinkboxLogo&quot;,&quot;Category&quot;:&quot;Asset&quot;,&quot;IsAjax&quot;:false}\">\r\n
+        \                   <div id=\"j-logoImageContainer\" class=\"logo-image\">\r\n
+        \                       <noscript>\r\n                            <img src=\"/VersionedContent/V7uaZsRWcFJGeyKMOx2w/Images/Layout/header-logo.png\"
+        alt=\"TalkTalk TV Store\" />\r\n                        </noscript>\r\n                    </div>\r\n
+        \               </a>\r\n        </div>\r\n        \r\n        <script>\r\n
+        \           (function(){\r\n                var html, container;\r\n\r\n                if
+        (window.Modernizr && Modernizr.svg > -1 && window.devicePixelRatio > 1) {\r\n
+        \                   html = '<img src=\"/VersionedContent/NrFsT7Q22EToCQxUr7Dd7w/Images/Layout/talktalk-group-logo.svg\"
+        />';\r\n                }\r\n                else {\r\n                    html
+        = '<img src=\"/VersionedContent/V7uaZsRWcFJGeyKMOx2w/Images/Layout/header-logo.png\"
+        />';\r\n                }\r\n\r\n                container = document.getElementById(\"j-logoImageContainer\");\r\n
+        \               container.innerHTML = html;\r\n            })();\r\n        </script>\r\n
+        \           <nav aria-hidden=\"false\">\r\n                <h2 class=\"structure\">Browse
+        Desktop</h2>\r\n                <ul class=\"globalHeaderFunctions\">\r\n\r\n
+        \                   <li  class=\"searchNav signedOut jsSearchBar\">\r\n                        <div
+        >\r\n                            <form action=\"/search\" method=\"get\" data-form-submission-tracking=\"{&quot;Action&quot;:&quot;SearchSubmit&quot;,&quot;Category&quot;:&quot;Asset&quot;,&quot;IsAjax&quot;:false}\">\r\n
+        \                               <input type=\"search\" name=\"search\" title=\"Search
+        by title, actor or director\" placeholder=\"Search by title, actor or director\"
+        class=\"jsSearchInput\" autocomplete=\"off\" maxlength=\"200\" />\r\n                                <button
+        class=\"search jsSearchButton\" data-tracking-once=\"true\" data-tracking-click=\"{&quot;Action&quot;:&quot;SearchOpen&quot;,&quot;Category&quot;:&quot;Asset&quot;,&quot;IsAjax&quot;:true}\"><span
+        class=\"offLeft\">Search</span><span class=\"fontIconText\" aria-hidden=\"true\">&#xE004;</span></button>\r\n
+        \                           </form>\r\n                            <script
+        id=\"asset-dropdown\" type=\"text/x-handlebars-template\">\r\n\r\n    {{!--
+        div class=\"c-instantSearch list-group\" --}}\r\n        {{#if Found}}\r\n
+        \       <div class=\"c-instantSearch__wrapper\">\r\n            <h2 class=\"structure\">Search
+        Results</h2>\r\n            {{#if TotalMovies}}\r\n            <section class=\"c-instantSearch__group
+        c-instantSearch__group--results\">\r\n                <h3 class=\"c-instantSearch__groupHeader\">Movies</h3>\r\n
+        \               <div class=\"c-instantSearch__itemsWrapper\">\r\n                    <ul
+        class=\"c-instantSearch__items\">\r\n                        {{#each Movies}}\r\n
+        \                       <li class=\"c-instantSearch__item c-instantSearch__item--result
+        js-searchItem\">\r\n                            <a class=\"c-instantSearch__link\"
+        href=\"{{Url}}\" data-tracking-click=\"{{ClickTracking}}\">\r\n                                {{#em
+        ../SearchTerm}} {{Title}} {{/em}}\r\n                            </a>\r\n
+        \                       </li>\r\n                        {{/each}}\r\n                        {{#if
+        MoreMovies}}\r\n                        <li class=\"c-instantSearch__item
+        c-instantSearch__item--more js-searchItem has-more\">\r\n                            <a
+        class=\"c-instantSearch__link c-instantSearch__link--more\" href=\"{{MoreMoviesUrl}}\"
+        data-tracking-click=\"{{MoreMoviesTracking}}\">\r\n                                {{MoreMovies}}
+        more results\r\n                            </a>\r\n                        </li>\r\n
+        \                       {{/if}}\r\n                    </ul>\r\n                    {{#if
+        TotalTvShows}}\r\n                    <div class=\"c-instantSearch__divider\"></div>\r\n
+        \                   {{/if}}\r\n                </div>\r\n            </section>\r\n
+        \           {{/if}}\r\n            {{#if TotalTvShows}}\r\n            <section
+        class=\"c-instantSearch__group c-instantSearch__group--results\">\r\n                <h3
+        class=\"c-instantSearch__groupHeader c-instantSearch__groupHeader--tv\">Tv
+        Shows</h3>\r\n                <div class=\"c-instantSearch__itemsWrapper\">\r\n
+        \                   <ul class=\"c-instantSearch__items\">\r\n                        {{#each
+        TvShows}}\r\n                        <li class=\"c-instantSearch__item c-instantSearch__item--result
+        js-searchItem\">\r\n                            <a class=\"c-instantSearch__link\"
+        href=\"{{Url}}\" data-tracking-click=\"{{ClickTracking}}\"> {{#em ../SearchTerm}}
+        {{Title}} {{/em}}</a>\r\n                        </li>\r\n                        {{/each}}\r\n
+        \                       {{#if MoreTvShows}}\r\n                        <li
+        class=\"c-instantSearch__item c-instantSearch__item--more js-searchItem has-more\">\r\n
+        \                           <a class=\"c-instantSearch__link c-instantSearch__link--more\"
+        href=\"{{MoreTvShowsUrl}}\" data-tracking-click=\"{{MoreTvTracking}}\">{{MoreTvShows}}
+        more results</a>\r\n                        </li>\r\n                        {{/if}}\r\n
+        \                   </ul>\r\n                </div>\r\n            </section>\r\n
+        \           {{/if}}\r\n        </div>\r\n        {{else}}\r\n        {{#if
+        SearchTerm}}\r\n            <div class=\"c-instantSearch__wrapper c-instantSearch__wrapper--noResults\">\r\n
+        \                   <p class=\"c-instantSearch__item c-instantSearch__item--noResults\">No
+        results for current search.</p>\r\n                    <p class=\"c-instantSearch__item
+        c-instantSearch__item--noResults\">Looking for an <strong>actor</strong> or
+        <strong>director?</strong> Please enter their full name.</p>\r\n            </div>\r\n
+        \       {{/if}}\r\n    {{/if}}\r\n    {{!-- /div --}}\r\n</script>\r\n                        </div>\r\n
+        \                   </li>\r\n                        <li class=\"user\">\r\n
+        \                           <a class=\"accountUserIcon\"\r\n                               href=\"https://www.blinkbox.com/login?originalUrl=http%3A%2F%2Fwww.blinkbox.com%2Fmovies%2Fthe-dark-knight-%2828710%29\"\r\n
+        \                              data-tracking-click=\"{&quot;Action&quot;:&quot;SignInClicked&quot;,&quot;Category&quot;:&quot;Asset&quot;,&quot;IsAjax&quot;:false}\">\r\n
+        \                               <span class=\"offLeft\">Account Status</span><span
+        class=\"fontIconText\" aria-hidden=\"true\">&#XE000;</span>\r\n                                <span
+        class=\"accountUserIconText\">Log in</span>\r\n                            </a>\r\n
+        \                       </li>\r\n                </ul>\r\n            </nav>\r\n
+        \           <div aria-hidden=\"true\" class=\"mobileSearch\">\r\n                <form
+        action=\"/search\" method=\"get\" data-form-submission-tracking=\"{&quot;Action&quot;:&quot;SearchSubmit&quot;,&quot;Category&quot;:&quot;Asset&quot;,&quot;IsAjax&quot;:false}\">\r\n
+        \                   <input type=\"search\" name=\"search\" placeholder=\"Search
+        by title, actor or director\" class=\"jsSearchInput\" autocomplete=\"off\"
+        />\r\n                    <button type=\"submit\" class=\"greyButton jsMobileSearchButton\">Search</button>\r\n
+        \               </form>\r\n            </div>\r\n            <nav aria-hidden=\"true\">\r\n
+        \               <h2 class=\"structure\">Browse Mobile</h2>\r\n                <ul
+        >\r\n                        <li class=\"mainHeaderMenu js-mainHeaderMenu\">\r\n
+        \                           <div class=\"root js-root\"><span class=\"mainTitle\">MOVIES
+        &amp; TV</span><span class=\"hoverTitle\">SHOW ME</span></div>\r\n                            <div
+        class=\"menuWrapper js-menuWrapper\">\r\n                                <ul
+        \ class=\"subMenu\">\r\n                                        <li >\r\n
+        \                                           <a  data-tracking-click=\"{&quot;Action&quot;:&quot;SHOWME_Movies&quot;,&quot;Category&quot;:&quot;Asset&quot;,&quot;IsAjax&quot;:false}\"
+        href=\"/movies\">Movies</a>\r\n                                        </li>\r\n
+        \                                       <li >\r\n                                            <a
+        \ data-tracking-click=\"{&quot;Action&quot;:&quot;SHOWME_TV&quot;,&quot;Category&quot;:&quot;Asset&quot;,&quot;IsAjax&quot;:false}\"
+        href=\"/tv\">TV</a>\r\n                                        </li>\r\n                                                                    </ul>\r\n
+        \                           </div>\r\n                        </li>\r\n                </ul>\r\n
+        \           </nav>\r\n    </div>\r\n</header>\r\n\r\n<div class=\"globalHeaderPlaceholder\">\r\n
+        \   \r\n</div>\r\n\r\n\r\n    <main>\r\n        <div class=\"innerMainWrapper
+        p-innerMainWrapper\">\r\n\r\n            <noscript>\r\n    <ul class=\"notifications\">\r\n
+        \       <li class=\"critical\">\r\n            <div class=\"notificationWrapper\">\r\n
+        \               <div>\r\n                    <div class=\"notificationInnerWrapper\">\r\n
+        \                       <div class=\"notificationText\"><strong>You need to
+        enable JavaScript to enjoy movies and TV on TalkTalk TV.</strong>&nbsp;<a
+        href=\"http://blinkbox.me/enablejs\">Find out more</a></div>\r\n                    </div>\r\n
+        \               </div>\r\n            </div>\r\n        </li>\r\n    </ul>\r\n</noscript>\r\n\r\n
+        \   <ul id=\"notificationsBox\"  class=\"notifications\">\r\n        <li  class=\"critical
+        jPotentiallyVisible\" data-notification=\"NoPlayback\">\r\n    <div class=\"notificationWrapper\">\r\n
+        \       <div>\r\n            <div class=\"notificationInnerWrapper\">\r\n
+        \                           <div class=\"ctaContainer\">\r\n                <form
+        class=\"jDismissNotification jAjaxSubmission\" action=\"/messaging/dismiss/n1\"
+        method=\"POST\">\r\n                    <button class=\"redButton jCloseButton\"
+        type=\"submit\">Ok, I understand</button>\r\n                </form>\r\n            </div>\r\n\r\n
+        \               <div  class=\"notificationText\"><strong>You can’t watch movies
+        and TV shows on your device just yet</strong><br />But you can still browse
+        and buy</div>\r\n                            <div class=\"ctaContainerMobile\">\r\n
+        \               <form class=\"jDismissNotification jAjaxSubmission\" action=\"/messaging/dismiss/n1\"
+        method=\"POST\">\r\n                    <button class=\"redButton jCloseButton\"
+        type=\"submit\">Ok, I understand</button>\r\n                </form>\r\n            </div>\r\n\r\n
+        \           </div>\r\n        </div>\r\n    </div>\r\n</li>\r\n\r\n\r\n\r\n
+        \   </ul>\r\n\r\n            \r\n\r\n\r\n\r\n    <div  class=\"blueNoise p-campaignColdstartContainer\">\r\n
+        \           <div class=\"b-maxWidthContainer\">\r\n                <p  class=\"g-welcomeHeader
+        p-welcomeHeader\">Rent, buy and watch the latest movies and TV shows online</p>\r\n
+        \               <section class=\"c-coldStart j-expandCollapse is-collapsed\"
+        \ >\r\n\r\n    <div class=\"c-coldStart__header j-expandCollapse__toggle\">\r\n
+        \       <h2 class=\"c-coldStart__headerText\">How it works</h2>\r\n    </div>\r\n\r\n
+        \   <div class=\"c-coldStart__expandable g-coldStartExpandable j-expandCollapse__container\">\r\n
+        \       <div class=\"c-coldStart__content g-coldStartContent\">\r\n            <ul
+        class=\"clear\">\r\n                <li class=\"c-textBlock c-textBlock--coldStart
+        g-coldStartBlock\">\r\n                    <h2 class=\"c-textBlock__header
+        c-textBlock__header--coldStart\">Browse the latest movies and TV</h2>\r\n
+        \                   <p class=\"c-textBlock__text c-textBlock__text--coldStart\">TalkTalk
+        TV has more of the latest movies and TV shows than our competitors.</p>\r\n
+        \               </li>\r\n                <li class=\"c-textBlock c-textBlock--coldStart
+        g-coldStartBlock\">\r\n                    <h2 class=\"c-textBlock__header
+        c-textBlock__header--coldStart\">Pay for what you want to watch</h2>\r\n                    <p
+        class=\"c-textBlock__text c-textBlock__text--coldStart\">No subscription,
+        so you only pay when you rent or buy a movie or TV show, from just 99p.</p>\r\n
+        \               </li>\r\n                <li class=\"c-textBlock c-textBlock--coldStart
+        g-coldStartBlock is-last\">\r\n                    <h2 class=\"c-textBlock__header
+        c-textBlock__header--coldStart\">Enjoy on a range of devices</h2>\r\n                    <p
+        class=\"c-textBlock__text c-textBlock__text--coldStart\">TalkTalk TV is available
+        on PC, Mac, mobile, tablets, Chromecast and YouView.</p>\r\n                </li>\r\n
+        \           </ul>\r\n        </div>\r\n        <a href=\"/about\" class=\"c-linkButton
+        c-linkButton--goTo c-linkButton--coldStart g-coldStartMoreLink\" >Find out
+        more</a>\r\n    </div>\r\n</section>\r\n            </div>\r\n\r\n    </div>\r\n<div
+        class=\"c-billboard jsPlayButtonContainer billboardWrapper\">\r\n\r\n    <div
+        \ class=\"c-billboard__posterWrapper c-billboard__posterWrapper--poster\">\r\n
+        \       <div  class=\"c-billboard__poster c-billboard__poster--asset\">\r\n
+        \           <div  class=\"c-imageContainer imageContainer pending\" >\r\n
+        \       <img alt=\"The Dark Knight\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAN4AAABkAQMAAADT+BznAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAANQTFRF////p8QbyAAAAAF0Uk5TAEDm2GYAAAAZSURBVBgZ7cExAQAAAMIg+6deCF9gAADAJQtUAAG1585sAAAAAElFTkSuQmCC\"
+        \ class=\"c-imageContainer__image placeholder\" data-src-template=\"http://cdn3.blinkboxmedia.com/i/contentasset31/000/028/710/1gkiab4e/v=317/w={width};h={height};rm=CropBottom;q={quality}/image.jpg\"
+        data-aspect-ratio=\"2.22222222\" data-quality=\"70\" data-force-quality=\"false\"
+        />\r\n        <noscript>\r\n            <img alt=\"The Dark Knight\" src=\"http://cdn4.blinkboxmedia.com/i/contentasset31/000/028/710/1gkiab4e/v=317/w=1400;h=630;rm=CropBottom;q=70/image.jpg\"
+        />\r\n        </noscript>\r\n</div>\r\n\r\n            \r\n                <div
+        class=\"c-billboard__gradient\"></div>\r\n                    </div>\r\n    </div>\r\n
+        \   <div class=\"c-billboard__overlay\">\r\n        <div class=\"b-maxWidthContainer
+        p-assetHeaderContainer\">\r\n            <div class=\"c-assetHeader c-assetHeader--billboard\">\r\n
+        \               <h1 class=\"g-assetTitle c-assetHeader__title c-assetHeader__title--billboard
+        jEllipsis\">The Dark Knight</h1>\r\n                <ul class=\"g-assetInfo
+        c-assetHeader__info c-assetHeader__info--billboard b-listInline\">\r\n                    <li
+        class=\"b-listInline__item bulletSeparator c-assetHeader__item c-assetHeader__item--billboard\">CERT
+        12</li>\r\n                    <li class=\"b-listInline__item bulletSeparator
+        c-assetHeader__item c-assetHeader__item--billboard\">2008</li>\r\n                    <li
+        class=\"b-listInline__item bulletSeparator c-assetHeader__item c-assetHeader__item--billboard\">2
+        HRS 32 MINS</li>\r\n                        <li class=\"b-listInline__item
+        bulletSeparator c-assetHeader__item c-assetHeader__item--billboard\">\r\n
+        \                           <div class=\"c-rating c-rating--static\">\r\n
+        \                                   <span  class=\"c-rating__billboardStar
+        c-rating__billboardStar--on\"></span>\r\n    <span  class=\"c-rating__billboardStar
+        c-rating__billboardStar--on\"></span>\r\n    <span  class=\"c-rating__billboardStar
+        c-rating__billboardStar--on\"></span>\r\n    <span  class=\"c-rating__billboardStar
+        c-rating__billboardStar--on\"></span>\r\n    <span  class=\"c-rating__billboardStar
+        c-rating__billboardStar--half\"></span>\r\n\r\n                            </div>\r\n
+        \                       </li>\r\n                </ul>\r\n            </div>\r\n
+        \               <div  class=\"g-assetControls c-billboard__subline\">\r\n
+        \                   \r\n\r\n<div  class=\"c-billboard__controlGroup c-billboard__controlGroup--single\">\r\n
+        \       <div  class=\"c-billboard__control c-billboard__control--cta c-billboard__control--ctaSingle\">\r\n
+        \           <form action=\"https://www.blinkbox.com/order/add-item-to-basket?productId=6042&amp;productType=Video\"
+        method=\"POST\">\r\n    \r\n    <input name=\"flag\" value=\"true\" type=\"hidden\"
+        />\r\n    <button type=\"submit\"  class=\"c-retailButton c-retailButton--rental\"
+        data-tracking-click=\"{&quot;Action&quot;:&quot;RentSDButtonClicked&quot;,&quot;Category&quot;:&quot;Asset&quot;,&quot;IsAjax&quot;:false,&quot;Label&quot;:&quot;Unauthenticated&quot;}\">\r\n
+        \       RENT\r\n        <span class=\"c-retailButton__price\">\r\n            &#163;2.49\r\n\r\n
+        \       </span>\r\n    </button>\r\n</form>\r\n\r\n \r\n        </div>\r\n</div>\r\n\r\n<div
+        \ class=\"c-billboard__controlGroup c-billboard__controlGroup--singleLast\">\r\n
+        \       <div  class=\"c-billboard__control c-billboard__control--cta c-billboard__control--ctaSingle\">\r\n
+        \           <form action=\"https://www.blinkbox.com/order/add-item-to-basket?productId=6041&amp;productType=Video\"
+        method=\"POST\">\r\n    \r\n    <input name=\"flag\" value=\"true\" type=\"hidden\"
+        />\r\n    <button type=\"submit\"  class=\"c-retailButton c-retailButton--purchase\"
+        data-tracking-click=\"{&quot;Action&quot;:&quot;BuySDButtonClicked&quot;,&quot;Category&quot;:&quot;Asset&quot;,&quot;IsAjax&quot;:false,&quot;Label&quot;:&quot;Unauthenticated&quot;}\">\r\n
+        \       BUY\r\n        <span class=\"c-retailButton__price\">\r\n            &#163;6.99\r\n\r\n
+        \       </span>\r\n    </button>\r\n</form>\r\n\r\n \r\n        </div>\r\n</div>
+        \                                   </div>\r\n        </div>\r\n    </div>\r\n</div>\r\n<div
+        class=\"c-contentWrapper whiteNoise\">\r\n    <div class=\"b-maxWidthContainer
+        p-moreInfoContainer\">\r\n        <div class=\"g-interactions\">\r\n            <ul
+        class=\"c-interactions\">\r\n                                                                <li
+        class=\"c-interactions__interaction\">\r\n                    <button type=\"button\"
+        class=\"c-linkButton c-linkButton--grey c-linkButton--share c-linkButton--interaction
+        j-showBubble__link\" data-target-bubble-id=\"j-shareBubble\" id=\"shareButton\"
+        data-tracking-click=\"{&quot;Action&quot;:&quot;ShareLinkClicked&quot;,&quot;Category&quot;:&quot;Asset&quot;,&quot;IsAjax&quot;:true,&quot;Label&quot;:&quot;Unauthenticated&quot;}\">Share</button>\r\n
+        \                   \r\n<div id=\"j-shareBubble\" class=\"c-linkButton__hiddenExtension
+        c-bubble c-bubble--share j-showBubble__bubble\" style=\"display: none;\">\r\n
+        \   <div class=\"c-bubble__contents pw-widget pw-vertical pw-counter-none\"
+        pw:title=\"Watch The Dark Knight on TalkTalk TV.\">\r\n        <ul>\r\n            <li
+        class=\"c-bubble__item c-bubble__item--share\"><a class=\"c-bubble__shareButton
+        pw-button-twitter pw-look-native\"></a></li>\r\n            <li class=\"c-bubble__item
+        c-bubble__item--share\"><a class=\"c-bubble__shareButton pw-button-facebook
+        pw-look-native\"></a></li>\r\n        </ul>\r\n    </div>\r\n</div>\r\n\r\n
+        \               </li>\r\n            </ul>\r\n        </div>\r\n        <div
+        class=\"g-packShotContainer\">\r\n            <div class=\"c-packShot p-desktopPackShot\">\r\n
+        \               <div  class=\"c-imageContainer imageContainer pending\" >\r\n
+        \       <img alt=\"The Dark Knight\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEYAAABkAQMAAAABhNT6AAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAANQTFRF////p8QbyAAAAAF0Uk5TAEDm2GYAAAAQSURBVBgZYxgFo2AUDHsAAAPoAAEY2e98AAAAAElFTkSuQmCC\"
+        \ class=\"c-imageContainer__image placeholder\" data-src-template=\"http://cdn1.blinkboxmedia.com/i/contentasset3/000/028/710/gl0lloqf/v=317/w={width};h={height};rm=Crop;q={quality}/image.jpg\"
+        data-aspect-ratio=\"0.70261438\" data-quality=\"85\" data-force-quality=\"false\"
+        />\r\n        <noscript>\r\n            <img alt=\"The Dark Knight\" src=\"http://cdn1.blinkboxmedia.com/i/contentasset3/000/028/710/gl0lloqf/v=317/w=215;h=306;rm=Crop;q=85/image.jpg\"
+        />\r\n        </noscript>\r\n</div>\r\n\r\n            </div>\r\n        </div>\r\n
+        \       <div class=\"g-assetOverview p-assetOverview\">\r\n            <div
+        class=\"c-assetInformation j-expandCollapse is-collapsed\">\r\n                <div
+        class=\"c-assetInformation__wrapper j-expandCollapse__container\">\r\n                    <p
+        class=\"c-assetInformation__description c-assetInformation__description--devilGrey
+        jEllipsis\">\r\n                        Christian Bale once again embodies
+        the man behind the mask in The Dark Knight. The film reunites Bale with director
+        Christopher Nolan and takes Batman across the world in his quest to fight
+        a growing criminal threat. With the help of Lieutenant Jim Gordon (Gary Oldman)
+        and District Attorney Harvey Dent (Aaron Eckhart), the new &#39;white knight&#39;,
+        Batman has been making headway against local crime ... ... that is until a
+        rising criminal mastermind known simply as The Joker (Heath Ledger) unleashes
+        a fresh reign of chaos across Gotham City. To stop this devious new menace
+        -- Batman&#39;s most personal and vicious enemy yet -- he will have to use
+        every high-tech weapon in his arsenal and confront everything he believes.
+        There is still plenty of work to be done for Batman is Gotham is ever to rid
+        itself of its villainous underbelly.\r\n                    </p>\r\n                    <div
+        class=\"p-separator\"></div>\r\n                    <section>\r\n                        <h2
+        class=\"structure\">Asset Details</h2>\r\n                        <div class=\"c-assetInformation__details
+        c-assetInformation__details--devilGrey\">\r\n                            <dl>\r\n
+        \                                   <dt class=\"c-assetInformation__infoHeader
+        c-assetInformation__infoHeader--devilGrey c-assetInformation__infoHeader--detail\">Genre</dt>\r\n
+        \                                   <dd class=\"c-assetInformation__detailsItem
+        c-assetInformation__detailsItem--devilGrey\"><p>Action, Sci-Fi, Thriller</p></dd>\r\n
+        \                               <dt class=\"c-assetInformation__infoHeader
+        c-assetInformation__infoHeader--devilGrey c-assetInformation__infoHeader--certificate\">\r\n
+        \                                   <span class=\"c-assetInformation__infoHeaderIcon
+        c-assetInformation__infoHeaderIcon--cert-12\">Certificate</span>\r\n                                    <span
+        class=\"structure\">12</span>\r\n                                </dt>\r\n
+        \                               <dd class=\"c-assetInformation__detailsItem
+        c-assetInformation__detailsItem--devilGrey\"><p>Contains strong fantasy violence
+        and sustained threat</p></dd>\r\n                                <dt class=\"c-assetInformation__infoHeader
+        c-assetInformation__infoHeader--devilGrey c-assetInformation__infoHeader--detail\">Run
+        Time</dt>\r\n                                <dd class=\"c-assetInformation__detailsItem
+        c-assetInformation__detailsItem--devilGrey\"><p>2 hours 32 minutes</p></dd>\r\n
+        \                               <dt class=\"c-assetInformation__infoHeader
+        c-assetInformation__infoHeader--devilGrey c-assetInformation__infoHeader--detail\">Released</dt>\r\n
+        \                               <dd class=\"c-assetInformation__detailsItem
+        c-assetInformation__detailsItem--devilGrey\"><p>2008</p></dd>\r\n                            </dl>\r\n
+        \                       </div>\r\n                        <div class=\"g-mobileSeparator
+        p-mobileSeparator clear\"></div>\r\n                        <div class=\"c-assetInformation__castCrew\">\r\n
+        \                           <dl>\r\n                                    <dt
+        class=\"c-assetInformation__infoHeader c-assetInformation__infoHeader--devilGrey
+        c-assetInformation__infoHeader--castCrew\">Cast & Crew</dt>\r\n                                    <dd>\r\n
+        \                                       <p>\r\n                                                <a
+        class=\"c-linkButton c-linkButton--grey c-linkButton--goTo c-linkButton--fullWidth\"
+        href=\"/search?search=christopher%20nolan\" data-tracking-click=\"{&quot;Action&quot;:&quot;CastCrewLinkClicked&quot;,&quot;Category&quot;:&quot;Asset&quot;,&quot;IsAjax&quot;:false,&quot;Label&quot;:&quot;Unauthenticated&quot;}\">Christopher
+        Nolan</a>\r\n                                                <a class=\"c-linkButton
+        c-linkButton--grey c-linkButton--goTo c-linkButton--fullWidth\" href=\"/search?search=christian%20bale\"
+        data-tracking-click=\"{&quot;Action&quot;:&quot;CastCrewLinkClicked&quot;,&quot;Category&quot;:&quot;Asset&quot;,&quot;IsAjax&quot;:false,&quot;Label&quot;:&quot;Unauthenticated&quot;}\">Christian
+        Bale</a>\r\n                                                <a class=\"c-linkButton
+        c-linkButton--grey c-linkButton--goTo c-linkButton--fullWidth\" href=\"/search?search=maggie%20gyllenhaal\"
+        data-tracking-click=\"{&quot;Action&quot;:&quot;CastCrewLinkClicked&quot;,&quot;Category&quot;:&quot;Asset&quot;,&quot;IsAjax&quot;:false,&quot;Label&quot;:&quot;Unauthenticated&quot;}\">Maggie
+        Gyllenhaal</a>\r\n                                                <a class=\"c-linkButton
+        c-linkButton--grey c-linkButton--goTo c-linkButton--fullWidth\" href=\"/search?search=michael%20jai%20white\"
+        data-tracking-click=\"{&quot;Action&quot;:&quot;CastCrewLinkClicked&quot;,&quot;Category&quot;:&quot;Asset&quot;,&quot;IsAjax&quot;:false,&quot;Label&quot;:&quot;Unauthenticated&quot;}\">Michael
+        Jai White</a>\r\n                                                <a class=\"c-linkButton
+        c-linkButton--grey c-linkButton--goTo c-linkButton--fullWidth\" href=\"/search?search=michael%20caine\"
+        data-tracking-click=\"{&quot;Action&quot;:&quot;CastCrewLinkClicked&quot;,&quot;Category&quot;:&quot;Asset&quot;,&quot;IsAjax&quot;:false,&quot;Label&quot;:&quot;Unauthenticated&quot;}\">Michael
+        Caine</a>\r\n                                                <a class=\"c-linkButton
+        c-linkButton--grey c-linkButton--goTo c-linkButton--fullWidth\" href=\"/search?search=cillian%20murphy\"
+        data-tracking-click=\"{&quot;Action&quot;:&quot;CastCrewLinkClicked&quot;,&quot;Category&quot;:&quot;Asset&quot;,&quot;IsAjax&quot;:false,&quot;Label&quot;:&quot;Unauthenticated&quot;}\">Cillian
+        Murphy</a>\r\n                                                <a class=\"c-linkButton
+        c-linkButton--grey c-linkButton--goTo c-linkButton--fullWidth\" href=\"/search?search=nestor%20carbonell\"
+        data-tracking-click=\"{&quot;Action&quot;:&quot;CastCrewLinkClicked&quot;,&quot;Category&quot;:&quot;Asset&quot;,&quot;IsAjax&quot;:false,&quot;Label&quot;:&quot;Unauthenticated&quot;}\">Nestor
+        Carbonell</a>\r\n                                                <a class=\"c-linkButton
+        c-linkButton--grey c-linkButton--goTo c-linkButton--fullWidth\" href=\"/search?search=aaron%20eckhart\"
+        data-tracking-click=\"{&quot;Action&quot;:&quot;CastCrewLinkClicked&quot;,&quot;Category&quot;:&quot;Asset&quot;,&quot;IsAjax&quot;:false,&quot;Label&quot;:&quot;Unauthenticated&quot;}\">Aaron
+        Eckhart</a>\r\n                                                <a class=\"c-linkButton
+        c-linkButton--grey c-linkButton--goTo c-linkButton--fullWidth\" href=\"/search?search=heath%20ledger\"
+        data-tracking-click=\"{&quot;Action&quot;:&quot;CastCrewLinkClicked&quot;,&quot;Category&quot;:&quot;Asset&quot;,&quot;IsAjax&quot;:false,&quot;Label&quot;:&quot;Unauthenticated&quot;}\">Heath
+        Ledger</a>\r\n                                                <a class=\"c-linkButton
+        c-linkButton--grey c-linkButton--goTo c-linkButton--fullWidth\" href=\"/search?search=william%20fichtner\"
+        data-tracking-click=\"{&quot;Action&quot;:&quot;CastCrewLinkClicked&quot;,&quot;Category&quot;:&quot;Asset&quot;,&quot;IsAjax&quot;:false,&quot;Label&quot;:&quot;Unauthenticated&quot;}\">William
+        Fichtner</a>\r\n                                        </p>\r\n                                    </dd>\r\n
+        \                           </dl>\r\n                        </div>\r\n                    </section>\r\n
+        \                   <div class=\"c-packShot p-tabletPackShot\">\r\n                        <div
+        \ class=\"c-imageContainer imageContainer pending\" >\r\n        <img alt=\"The
+        Dark Knight\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEYAAABkAQMAAAABhNT6AAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAANQTFRF////p8QbyAAAAAF0Uk5TAEDm2GYAAAAQSURBVBgZYxgFo2AUDHsAAAPoAAEY2e98AAAAAElFTkSuQmCC\"
+        \ class=\"c-imageContainer__image placeholder\" data-src-template=\"http://cdn1.blinkboxmedia.com/i/contentasset3/000/028/710/gl0lloqf/v=317/w={width};h={height};rm=Crop;q={quality}/image.jpg\"
+        data-aspect-ratio=\"0.70261438\" data-quality=\"85\" data-force-quality=\"false\"
+        />\r\n        <noscript>\r\n            <img alt=\"The Dark Knight\" src=\"http://cdn1.blinkboxmedia.com/i/contentasset3/000/028/710/gl0lloqf/v=317/w=215;h=306;rm=Crop;q=85/image.jpg\"
+        />\r\n        </noscript>\r\n</div>\r\n\r\n                    </div>\r\n
+        \                   <div class=\"c-studioIcon p-mobileStudioIcon\">\r\n                        <a
+        href=\"/movies/studio/warner-bros\" data-tracking-click=\"{&quot;Action&quot;:&quot;StudioLogoClicked&quot;,&quot;Category&quot;:&quot;Asset&quot;,&quot;IsAjax&quot;:false,&quot;Label&quot;:&quot;Unauthenticated&quot;}\">\r\n
+        \                           <img class=\"c-studioIcon__icon\" src=\"http://cdn3.blinkboxmedia.com/i/studio/000/001/631/c30qikvw/v=317/w=150;h=75;rm=Crop;q=85/image.png\"
+        />\r\n                        </a>\r\n                    </div>\r\n                </div>\r\n
+        \               <a class=\"c-assetInformation__moreInfoLink j-expandCollapse__toggle\"
+        href=\"#\" data-tracking-click=\"{&quot;Action&quot;:&quot;ToggleInformationLinkClicked&quot;,&quot;Category&quot;:&quot;Asset&quot;,&quot;IsAjax&quot;:true,&quot;Label&quot;:&quot;Unauthenticated&quot;}\">Read
+        more...</a>\r\n            </div>\r\n        </div>\r\n        <div class=\"g-studio\">\r\n
+        \           <div class=\"c-studioIcon p-desktopStudioIcon\">\r\n                <a
+        href=\"/movies/studio/warner-bros\" data-tracking-click=\"{&quot;Action&quot;:&quot;StudioLogoClicked&quot;,&quot;Category&quot;:&quot;Asset&quot;,&quot;IsAjax&quot;:false,&quot;Label&quot;:&quot;Unauthenticated&quot;}\">\r\n
+        \                   <img class=\"c-studioIcon__icon\" src=\"http://cdn3.blinkboxmedia.com/i/studio/000/001/631/c30qikvw/v=317/w=150;h=75;rm=Crop;q=85/image.png\"
+        />\r\n                </a>\r\n            </div>\r\n        </div>\r\n    </div>\r\n</div>\r\n<section>\r\n
+        \   <div class=\"c-contentWrapper c-contentWrapper--white clear\">\r\n        <div
+        class=\"b-maxWidthContainer\">\r\n            <div class=\"c-viewingOptions
+        j-expandCollapse is-collapsed\">\r\n                <div class=\"g-viewingOptionsFull
+        c-viewingOptions__header\">\r\n                    <h2 class=\"c-viewingOptions__toggle
+        j-expandCollapse__toggle\" data-tracking-click=\"{&quot;Action&quot;:&quot;ViewingOptionsLinkClicked&quot;,&quot;Category&quot;:&quot;Asset&quot;,&quot;IsAjax&quot;:true,&quot;Label&quot;:&quot;Unauthenticated&quot;}\">Viewing
+        options</h2>\r\n                        <img class=\"c-viewingOptions__icon\"
+        src=\"/VersionedContent/NOMuwVGv3arkrUPj0G4lbw/Images/UltraViolet/uv_icon_36x36.png\"
+        alt=\"\" />\r\n                </div>\r\n                <div class=\"c-viewingOptions__optionContent
+        j-expandCollapse__container\">\r\n                        <div class=\"c-viewingOptions__optionRow\">\r\n
+        \                               <dl  class=\"c-viewingOptions__option g-viewingOptionsLeft\">\r\n
+        \                                   <dt class=\"c-viewingOptions__infoHeader\">Rent</dt>\r\n
+        \                                   <dd><p>Start playing within 30 days. Finish
+        watching in 48 hours on up to 2 devices.</p></dd>\r\n                                </dl>\r\n\r\n
+        \                               <dl  class=\"c-viewingOptions__option g-viewingOptionsRight\">\r\n
+        \                                   <dt class=\"c-viewingOptions__infoHeader\">Buy</dt>\r\n
+        \                                   <dd>\r\n                                        <p>\r\n
+        \                                           Own forever. Watch on up to 5
+        devices.<br/>UltraViolet licence included with Buy SD option.\r\n                                                <a
+        class=\"c-linkButton c-linkButton--grey c-linkButton--goTo p-deviceLink\"
+        href=\"/ultraviolet\">Find out more</a>\r\n                                        </p>\r\n
+        \                                   </dd>\r\n                                </dl>\r\n
+        \                       </div>\r\n                        <div class=\"g-separator
+        p-desktopSeparator\"></div>\r\n                                        <div
+        class=\"c-viewingOptions__optionRow\">\r\n                        <dl class=\"g-viewingOptionsLeft
+        c-viewingOptions__option\">\r\n                            <dt class=\"c-viewingOptions__infoHeader\">Watch
+        online</dt>\r\n                            <dd><p>PC, Mac, Chromecast, iPad,
+        iPhone, Android phones and tablets, Windows phones and tablets, Xbox, PS3,
+        smart TVs, set-top boxes and Blu-ray players.</p></dd>\r\n                            <dd><a
+        class=\"c-linkButton c-linkButton--grey c-linkButton--goTo p-deviceLink\"
+        href=\"http://blinkbox.me/devicesupport\">Find out more</a></dd>\r\n                        </dl>\r\n
+        \                       <dl class=\"g-viewingOptionsRight c-viewingOptions__option\">\r\n
+        \                           <dt class=\"c-viewingOptions__infoHeader\">Download</dt>\r\n
+        \                           <dd><p>Download on iOS 8+, Android 4.0+ and Windows
+        8.1+ in app. Includes rentals.</p></dd>\r\n                            <dd><a
+        class=\"c-linkButton c-linkButton--grey c-linkButton--goTo p-deviceLink\"
+        href=\"http://blinkbox.me/offlineoptions\">Find out more</a></dd>\r\n                        </dl>\r\n
+        \                   </div>\r\n                </div>\r\n            </div>\r\n
+        \       </div>\r\n    </div>\r\n</section>\r\n<div class=\"p-sectionWrapper\">\r\n\r\n
+        \       <section class=\"c-contentSection c-contentSection--noMarginBottom
+        c-contentSection--blueNoiseGradient\">\r\n        <div class=\"b-maxWidthContainer\">\r\n
+        \           <h2 class=\"g-assetGridHeader c-contentSection__header c-contentSection__header--similarItems
+        sideLines\">Similar movies</h2>\r\n            <ul class=\"b-assetCollection
+        clearBoth\">\r\n                    <li class=\"b-assetCollection__item\">\r\n
+        \                       <article  class=\"c-assetOverlay c-assetCollectionItem\">\r\n
+        \   <div  class=\"c-assetOverlay__container\">\r\n        <a class=\"c-assetOverlay__imageContainer
+        j-watchLaterContainer textDecorationNone\" href=\"/movies/the-dark-knight-rises-(37807)\"
+        >\r\n            \r\n\r\n<div  class=\"imageContainer pending c-imageContainer
+        c-imageContainer--collectionItemDark c-imageContainer--shadow\" >\r\n\r\n
+        \       <img alt=\"The Dark Knight Rises\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAALIAAABkAQMAAAAYI/gZAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAANQTFRF////p8QbyAAAAAF0Uk5TAEDm2GYAAAAZSURBVBgZYxgFo2AUjIJRMApGwSgYBVQFAAlgAAFcIoUVAAAAAElFTkSuQmCC\"
+        class=\"placeholder c-imageContainer__image c-imageContainer__image--collectionItemDark\"
+        data-src-template=\"http://cdn1.blinkboxmedia.com/i/contentasset15/000/037/807/gtqjeb2w/v=317/w={width};h={height};rm=Crop;q={quality}/image.jpg\"
+        data-aspect-ratio=\"1.77777778\" data-quality=\"85\" data-force-quality=\"true\"
+        />\r\n        <noscript>\r\n            <img alt=\"The Dark Knight Rises\"
+        src=\"http://cdn1.blinkboxmedia.com/i/contentasset15/000/037/807/gtqjeb2w/v=317/w=234;h=132;rm=Crop;q=85/image.jpg\"
+        />\r\n        </noscript>\r\n\r\n\r\n</div>\r\n        </a>\r\n        \r\n
+        \   </div>\r\n    <div  class=\"c-assetCollectionItem__info\">\r\n        <h3
+        class=\"clearBoth\">\r\n            <a  class=\"c-assetCollectionItem__title\"
+        href=\"/movies/the-dark-knight-rises-(37807)\" >\r\n                The Dark
+        Knight Rises\r\n            </a>\r\n        </h3>\r\n        <a class=\"textDecorationNone\"
+        href=\"/movies/the-dark-knight-rises-(37807)\" >\r\n            <dl class=\"b-listFloat
+        c-assetCollectionItem__metaData\">\r\n                <dt class=\"structure\">Certification</dt>\r\n
+        \               <dd  class=\"c-assetCollectionItem__metaDataItem b-listFloat__item
+        bulletSeparator textUpper c-assetCollectionItem__metaDataItem--no-subtitle\">CERT
+        12</dd>\r\n                <dt class=\"structure\">Running time</dt>\r\n                <dd
+        \ class=\"c-assetCollectionItem__metaDataItem c-assetCollectionItem__runtime
+        runTime b-listFloat__item bulletSeparator c-assetCollectionItem__metaDataItem--no-subtitle\">2
+        HRS 44 MINS</dd>\r\n                \r\n            </dl>\r\n        </a>\r\n
+        \   </div>\r\n</article>\r\n\r\n                    </li>\r\n                    <li
+        class=\"b-assetCollection__item\">\r\n                        <article  class=\"c-assetOverlay
+        c-assetCollectionItem\">\r\n    <div  class=\"c-assetOverlay__container\">\r\n
+        \       <a class=\"c-assetOverlay__imageContainer j-watchLaterContainer textDecorationNone\"
+        href=\"/movies/batman-begins-(311)\" >\r\n            \r\n\r\n<div  class=\"imageContainer
+        pending c-imageContainer c-imageContainer--collectionItemDark c-imageContainer--shadow\"
+        >\r\n\r\n        <img alt=\"Batman Begins\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAALIAAABkAQMAAAAYI/gZAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAANQTFRF////p8QbyAAAAAF0Uk5TAEDm2GYAAAAZSURBVBgZYxgFo2AUjIJRMApGwSgYBVQFAAlgAAFcIoUVAAAAAElFTkSuQmCC\"
+        class=\"placeholder c-imageContainer__image c-imageContainer__image--collectionItemDark\"
+        data-src-template=\"http://cdn1.blinkboxmedia.com/i/contentasset34/000/000/311/ovumhrfe/v=317/w={width};h={height};rm=Crop;q={quality}/image.jpg\"
+        data-aspect-ratio=\"1.77777778\" data-quality=\"85\" data-force-quality=\"true\"
+        />\r\n        <noscript>\r\n            <img alt=\"Batman Begins\" src=\"http://cdn1.blinkboxmedia.com/i/contentasset34/000/000/311/ovumhrfe/v=317/w=234;h=132;rm=Crop;q=85/image.jpg\"
+        />\r\n        </noscript>\r\n\r\n\r\n</div>\r\n        </a>\r\n        \r\n
+        \   </div>\r\n    <div  class=\"c-assetCollectionItem__info\">\r\n        <h3
+        class=\"clearBoth\">\r\n            <a  class=\"c-assetCollectionItem__title\"
+        href=\"/movies/batman-begins-(311)\" >\r\n                Batman Begins\r\n
+        \           </a>\r\n        </h3>\r\n        <a class=\"textDecorationNone\"
+        href=\"/movies/batman-begins-(311)\" >\r\n            <dl class=\"b-listFloat
+        c-assetCollectionItem__metaData\">\r\n                <dt class=\"structure\">Certification</dt>\r\n
+        \               <dd  class=\"c-assetCollectionItem__metaDataItem b-listFloat__item
+        bulletSeparator textUpper c-assetCollectionItem__metaDataItem--no-subtitle\">CERT
+        12</dd>\r\n                <dt class=\"structure\">Running time</dt>\r\n                <dd
+        \ class=\"c-assetCollectionItem__metaDataItem c-assetCollectionItem__runtime
+        runTime b-listFloat__item bulletSeparator c-assetCollectionItem__metaDataItem--no-subtitle\">2
+        HRS 13 MINS</dd>\r\n                \r\n            </dl>\r\n        </a>\r\n
+        \   </div>\r\n</article>\r\n\r\n                    </li>\r\n                    <li
+        class=\"b-assetCollection__item\">\r\n                        <article  class=\"c-assetOverlay
+        c-assetCollectionItem\">\r\n    <div  class=\"c-assetOverlay__container\">\r\n
+        \       <a class=\"c-assetOverlay__imageContainer j-watchLaterContainer textDecorationNone\"
+        href=\"/movies/harry-potter-and-the-order-of-the-phoenix-(1294)\" >\r\n            \r\n\r\n<div
+        \ class=\"imageContainer pending c-imageContainer c-imageContainer--collectionItemDark
+        c-imageContainer--shadow\" >\r\n\r\n        <img alt=\"Harry Potter and the
+        Order of the Phoenix\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAALIAAABkAQMAAAAYI/gZAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAANQTFRF////p8QbyAAAAAF0Uk5TAEDm2GYAAAAZSURBVBgZYxgFo2AUjIJRMApGwSgYBVQFAAlgAAFcIoUVAAAAAElFTkSuQmCC\"
+        class=\"placeholder c-imageContainer__image c-imageContainer__image--collectionItemDark\"
+        data-src-template=\"http://cdn2.blinkboxmedia.com/i/contentasset34/000/001/294/5gvhl5ea/v=317/w={width};h={height};rm=Crop;q={quality}/image.jpg\"
+        data-aspect-ratio=\"1.77777778\" data-quality=\"85\" data-force-quality=\"true\"
+        />\r\n        <noscript>\r\n            <img alt=\"Harry Potter and the Order
+        of the Phoenix\" src=\"http://cdn2.blinkboxmedia.com/i/contentasset34/000/001/294/5gvhl5ea/v=317/w=234;h=132;rm=Crop;q=85/image.jpg\"
+        />\r\n        </noscript>\r\n\r\n\r\n</div>\r\n        </a>\r\n        \r\n
+        \   </div>\r\n    <div  class=\"c-assetCollectionItem__info\">\r\n        <h3
+        class=\"clearBoth\">\r\n            <a  class=\"c-assetCollectionItem__title
+        jEllipsis\" href=\"/movies/harry-potter-and-the-order-of-the-phoenix-(1294)\"
+        >\r\n                Harry Potter and the Order of the Phoenix\r\n            </a>\r\n
+        \       </h3>\r\n        <a class=\"textDecorationNone\" href=\"/movies/harry-potter-and-the-order-of-the-phoenix-(1294)\"
+        >\r\n            <dl class=\"b-listFloat c-assetCollectionItem__metaData\">\r\n
+        \               <dt class=\"structure\">Certification</dt>\r\n                <dd
+        \ class=\"c-assetCollectionItem__metaDataItem b-listFloat__item bulletSeparator
+        textUpper c-assetCollectionItem__metaDataItem--no-subtitle\">CERT 12</dd>\r\n
+        \               <dt class=\"structure\">Running time</dt>\r\n                <dd
+        \ class=\"c-assetCollectionItem__metaDataItem c-assetCollectionItem__runtime
+        runTime b-listFloat__item bulletSeparator c-assetCollectionItem__metaDataItem--no-subtitle\">2
+        HRS 18 MINS</dd>\r\n                \r\n            </dl>\r\n        </a>\r\n
+        \   </div>\r\n</article>\r\n\r\n                    </li>\r\n                    <li
+        class=\"b-assetCollection__item\">\r\n                        <article  class=\"c-assetOverlay
+        c-assetCollectionItem\">\r\n    <div  class=\"c-assetOverlay__container\">\r\n
+        \       <a class=\"c-assetOverlay__imageContainer j-watchLaterContainer textDecorationNone\"
+        href=\"/movies/harry-potter-and-the-goblet-of-fire-(358)\" >\r\n            \r\n\r\n<div
+        \ class=\"imageContainer pending c-imageContainer c-imageContainer--collectionItemDark
+        c-imageContainer--shadow\" >\r\n\r\n        <img alt=\"Harry Potter and the
+        Goblet of Fire\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAALIAAABkAQMAAAAYI/gZAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAANQTFRF////p8QbyAAAAAF0Uk5TAEDm2GYAAAAZSURBVBgZYxgFo2AUjIJRMApGwSgYBVQFAAlgAAFcIoUVAAAAAElFTkSuQmCC\"
+        class=\"placeholder c-imageContainer__image c-imageContainer__image--collectionItemDark\"
+        data-src-template=\"http://cdn2.blinkboxmedia.com/i/contentasset34/000/000/358/rxd3gwcz/v=317/w={width};h={height};rm=Crop;q={quality}/image.jpg\"
+        data-aspect-ratio=\"1.77777778\" data-quality=\"85\" data-force-quality=\"true\"
+        />\r\n        <noscript>\r\n            <img alt=\"Harry Potter and the Goblet
+        of Fire\" src=\"http://cdn1.blinkboxmedia.com/i/contentasset34/000/000/358/rxd3gwcz/v=317/w=234;h=132;rm=Crop;q=85/image.jpg\"
+        />\r\n        </noscript>\r\n\r\n\r\n</div>\r\n        </a>\r\n        \r\n
+        \   </div>\r\n    <div  class=\"c-assetCollectionItem__info\">\r\n        <h3
+        class=\"clearBoth\">\r\n            <a  class=\"c-assetCollectionItem__title
+        jEllipsis\" href=\"/movies/harry-potter-and-the-goblet-of-fire-(358)\" >\r\n
+        \               Harry Potter and the Goblet of Fire\r\n            </a>\r\n
+        \       </h3>\r\n        <a class=\"textDecorationNone\" href=\"/movies/harry-potter-and-the-goblet-of-fire-(358)\"
+        >\r\n            <dl class=\"b-listFloat c-assetCollectionItem__metaData\">\r\n
+        \               <dt class=\"structure\">Certification</dt>\r\n                <dd
+        \ class=\"c-assetCollectionItem__metaDataItem b-listFloat__item bulletSeparator
+        textUpper c-assetCollectionItem__metaDataItem--no-subtitle\">CERT 12</dd>\r\n
+        \               <dt class=\"structure\">Running time</dt>\r\n                <dd
+        \ class=\"c-assetCollectionItem__metaDataItem c-assetCollectionItem__runtime
+        runTime b-listFloat__item bulletSeparator c-assetCollectionItem__metaDataItem--no-subtitle\">2
+        HRS 30 MINS</dd>\r\n                \r\n            </dl>\r\n        </a>\r\n
+        \   </div>\r\n</article>\r\n\r\n                    </li>\r\n                    <li
+        class=\"b-assetCollection__item\">\r\n                        <article  class=\"c-assetOverlay
+        c-assetCollectionItem\">\r\n    <div  class=\"c-assetOverlay__container\">\r\n
+        \       <a class=\"c-assetOverlay__imageContainer j-watchLaterContainer textDecorationNone\"
+        href=\"/movies/harry-potter-and-the-deathly-hallows-part-2-(36931)\" >\r\n
+        \           \r\n\r\n<div  class=\"imageContainer pending c-imageContainer
+        c-imageContainer--collectionItemDark c-imageContainer--shadow\" >\r\n\r\n
+        \       <img alt=\"Harry Potter and the Deathly Hallows: Part 2\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAALIAAABkAQMAAAAYI/gZAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAANQTFRF////p8QbyAAAAAF0Uk5TAEDm2GYAAAAZSURBVBgZYxgFo2AUjIJRMApGwSgYBVQFAAlgAAFcIoUVAAAAAElFTkSuQmCC\"
+        class=\"placeholder c-imageContainer__image c-imageContainer__image--collectionItemDark\"
+        data-src-template=\"http://cdn3.blinkboxmedia.com/i/contentasset31/000/036/931/ncemoglp/v=317/w={width};h={height};rm=Crop;q={quality}/image.jpg\"
+        data-aspect-ratio=\"1.77777778\" data-quality=\"85\" data-force-quality=\"true\"
+        />\r\n        <noscript>\r\n            <img alt=\"Harry Potter and the Deathly
+        Hallows: Part 2\" src=\"http://cdn2.blinkboxmedia.com/i/contentasset31/000/036/931/ncemoglp/v=317/w=234;h=132;rm=Crop;q=85/image.jpg\"
+        />\r\n        </noscript>\r\n\r\n\r\n</div>\r\n        </a>\r\n        \r\n
+        \   </div>\r\n    <div  class=\"c-assetCollectionItem__info\">\r\n        <h3
+        class=\"clearBoth\">\r\n            <a  class=\"c-assetCollectionItem__title
+        jEllipsis\" href=\"/movies/harry-potter-and-the-deathly-hallows-part-2-(36931)\"
+        >\r\n                Harry Potter and the Deathly Hallows: Part 2\r\n            </a>\r\n
+        \       </h3>\r\n        <a class=\"textDecorationNone\" href=\"/movies/harry-potter-and-the-deathly-hallows-part-2-(36931)\"
+        >\r\n            <dl class=\"b-listFloat c-assetCollectionItem__metaData\">\r\n
+        \               <dt class=\"structure\">Certification</dt>\r\n                <dd
+        \ class=\"c-assetCollectionItem__metaDataItem b-listFloat__item bulletSeparator
+        textUpper c-assetCollectionItem__metaDataItem--no-subtitle\">CERT 12</dd>\r\n
+        \               <dt class=\"structure\">Running time</dt>\r\n                <dd
+        \ class=\"c-assetCollectionItem__metaDataItem c-assetCollectionItem__runtime
+        runTime b-listFloat__item bulletSeparator c-assetCollectionItem__metaDataItem--no-subtitle\">2
+        HRS 10 MINS</dd>\r\n                \r\n            </dl>\r\n        </a>\r\n
+        \   </div>\r\n</article>\r\n\r\n                    </li>\r\n                    <li
+        class=\"b-assetCollection__item\">\r\n                        <article  class=\"c-assetOverlay
+        c-assetCollectionItem\">\r\n    <div  class=\"c-assetOverlay__container\">\r\n
+        \       <a class=\"c-assetOverlay__imageContainer j-watchLaterContainer textDecorationNone\"
+        href=\"/movies/paycheck-(59518)\" >\r\n            \r\n\r\n<div  class=\"imageContainer
+        pending c-imageContainer c-imageContainer--collectionItemDark c-imageContainer--shadow\"
+        >\r\n\r\n        <img alt=\"Paycheck \" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAALIAAABkAQMAAAAYI/gZAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAANQTFRF////p8QbyAAAAAF0Uk5TAEDm2GYAAAAZSURBVBgZYxgFo2AUjIJRMApGwSgYBVQFAAlgAAFcIoUVAAAAAElFTkSuQmCC\"
+        class=\"placeholder c-imageContainer__image c-imageContainer__image--collectionItemDark\"
+        data-src-template=\"http://cdn3.blinkboxmedia.com/i/contentasset31/000/059/518/k533cwva/v=317/w={width};h={height};rm=Crop;q={quality}/image.jpg\"
+        data-aspect-ratio=\"1.77777778\" data-quality=\"85\" data-force-quality=\"true\"
+        />\r\n        <noscript>\r\n            <img alt=\"Paycheck \" src=\"http://cdn3.blinkboxmedia.com/i/contentasset31/000/059/518/k533cwva/v=317/w=234;h=132;rm=Crop;q=85/image.jpg\"
+        />\r\n        </noscript>\r\n\r\n\r\n</div>\r\n        </a>\r\n        \r\n
+        \   </div>\r\n    <div  class=\"c-assetCollectionItem__info\">\r\n        <h3
+        class=\"clearBoth\">\r\n            <a  class=\"c-assetCollectionItem__title\"
+        href=\"/movies/paycheck-(59518)\" >\r\n                Paycheck \r\n            </a>\r\n
+        \       </h3>\r\n        <a class=\"textDecorationNone\" href=\"/movies/paycheck-(59518)\"
+        >\r\n            <dl class=\"b-listFloat c-assetCollectionItem__metaData\">\r\n
+        \               <dt class=\"structure\">Certification</dt>\r\n                <dd
+        \ class=\"c-assetCollectionItem__metaDataItem b-listFloat__item bulletSeparator
+        textUpper c-assetCollectionItem__metaDataItem--no-subtitle\">CERT 12</dd>\r\n
+        \               <dt class=\"structure\">Running time</dt>\r\n                <dd
+        \ class=\"c-assetCollectionItem__metaDataItem c-assetCollectionItem__runtime
+        runTime b-listFloat__item bulletSeparator c-assetCollectionItem__metaDataItem--no-subtitle\">1
+        HR 59 MINS</dd>\r\n                \r\n            </dl>\r\n        </a>\r\n
+        \   </div>\r\n</article>\r\n\r\n                    </li>\r\n                    <li
+        class=\"b-assetCollection__item\">\r\n                        <article  class=\"c-assetOverlay
+        c-assetCollectionItem\">\r\n    <div  class=\"c-assetOverlay__container\">\r\n
+        \       <a class=\"c-assetOverlay__imageContainer j-watchLaterContainer textDecorationNone\"
+        href=\"/movies/reign-of-fire-(3170)\" >\r\n            \r\n\r\n<div  class=\"imageContainer
+        pending c-imageContainer c-imageContainer--collectionItemDark c-imageContainer--shadow\"
+        >\r\n\r\n        <img alt=\"Reign Of Fire\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAALIAAABkAQMAAAAYI/gZAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAANQTFRF////p8QbyAAAAAF0Uk5TAEDm2GYAAAAZSURBVBgZYxgFo2AUjIJRMApGwSgYBVQFAAlgAAFcIoUVAAAAAElFTkSuQmCC\"
+        class=\"placeholder c-imageContainer__image c-imageContainer__image--collectionItemDark\"
+        data-src-template=\"http://cdn1.blinkboxmedia.com/i/contentasset31/000/003/170/kfcfncpr/v=317/w={width};h={height};rm=Crop;q={quality}/image.jpg\"
+        data-aspect-ratio=\"1.77777778\" data-quality=\"85\" data-force-quality=\"true\"
+        />\r\n        <noscript>\r\n            <img alt=\"Reign Of Fire\" src=\"http://cdn3.blinkboxmedia.com/i/contentasset31/000/003/170/kfcfncpr/v=317/w=234;h=132;rm=Crop;q=85/image.jpg\"
+        />\r\n        </noscript>\r\n\r\n\r\n</div>\r\n        </a>\r\n        \r\n
+        \   </div>\r\n    <div  class=\"c-assetCollectionItem__info\">\r\n        <h3
+        class=\"clearBoth\">\r\n            <a  class=\"c-assetCollectionItem__title\"
+        href=\"/movies/reign-of-fire-(3170)\" >\r\n                Reign Of Fire\r\n
+        \           </a>\r\n        </h3>\r\n        <a class=\"textDecorationNone\"
+        href=\"/movies/reign-of-fire-(3170)\" >\r\n            <dl class=\"b-listFloat
+        c-assetCollectionItem__metaData\">\r\n                <dt class=\"structure\">Certification</dt>\r\n
+        \               <dd  class=\"c-assetCollectionItem__metaDataItem b-listFloat__item
+        bulletSeparator textUpper c-assetCollectionItem__metaDataItem--no-subtitle\">CERT
+        12</dd>\r\n                <dt class=\"structure\">Running time</dt>\r\n                <dd
+        \ class=\"c-assetCollectionItem__metaDataItem c-assetCollectionItem__runtime
+        runTime b-listFloat__item bulletSeparator c-assetCollectionItem__metaDataItem--no-subtitle\">1
+        HR 38 MINS</dd>\r\n                \r\n            </dl>\r\n        </a>\r\n
+        \   </div>\r\n</article>\r\n\r\n                    </li>\r\n                    <li
+        class=\"b-assetCollection__item\">\r\n                        <article  class=\"c-assetOverlay
+        c-assetCollectionItem\">\r\n    <div  class=\"c-assetOverlay__container\">\r\n
+        \       <a class=\"c-assetOverlay__imageContainer j-watchLaterContainer textDecorationNone\"
+        href=\"/movies/babylon-a-d-(27636)\" >\r\n            \r\n\r\n<div  class=\"imageContainer
+        pending c-imageContainer c-imageContainer--collectionItemDark c-imageContainer--shadow\"
+        >\r\n\r\n        <img alt=\"Babylon A.D.\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAALIAAABkAQMAAAAYI/gZAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAANQTFRF////p8QbyAAAAAF0Uk5TAEDm2GYAAAAZSURBVBgZYxgFo2AUjIJRMApGwSgYBVQFAAlgAAFcIoUVAAAAAElFTkSuQmCC\"
+        class=\"placeholder c-imageContainer__image c-imageContainer__image--collectionItemDark\"
+        data-src-template=\"http://cdn2.blinkboxmedia.com/i/contentasset25/000/027/636/ivv3qjjv/v=317/w={width};h={height};rm=Crop;q={quality}/image.jpeg\"
+        data-aspect-ratio=\"1.77777778\" data-quality=\"85\" data-force-quality=\"true\"
+        />\r\n        <noscript>\r\n            <img alt=\"Babylon A.D.\" src=\"http://cdn3.blinkboxmedia.com/i/contentasset25/000/027/636/ivv3qjjv/v=317/w=234;h=132;rm=Crop;q=85/image.jpeg\"
+        />\r\n        </noscript>\r\n\r\n\r\n</div>\r\n        </a>\r\n        \r\n
+        \   </div>\r\n    <div  class=\"c-assetCollectionItem__info\">\r\n        <h3
+        class=\"clearBoth\">\r\n            <a  class=\"c-assetCollectionItem__title\"
+        href=\"/movies/babylon-a-d-(27636)\" >\r\n                Babylon A.D.\r\n
+        \           </a>\r\n        </h3>\r\n        <a class=\"textDecorationNone\"
+        href=\"/movies/babylon-a-d-(27636)\" >\r\n            <dl class=\"b-listFloat
+        c-assetCollectionItem__metaData\">\r\n                <dt class=\"structure\">Certification</dt>\r\n
+        \               <dd  class=\"c-assetCollectionItem__metaDataItem b-listFloat__item
+        bulletSeparator textUpper c-assetCollectionItem__metaDataItem--no-subtitle\">CERT
+        15</dd>\r\n                <dt class=\"structure\">Running time</dt>\r\n                <dd
+        \ class=\"c-assetCollectionItem__metaDataItem c-assetCollectionItem__runtime
+        runTime b-listFloat__item bulletSeparator c-assetCollectionItem__metaDataItem--no-subtitle\">1
+        HR 30 MINS</dd>\r\n                \r\n            </dl>\r\n        </a>\r\n
+        \   </div>\r\n</article>\r\n\r\n                    </li>\r\n            </ul>\r\n
+        \       </div>\r\n    </section>\r\n\r\n</div>\r\n        </div>\r\n    </main>\r\n\r\n
+        \       <footer class=\"c-footer is-responsive divider\">\r\n            \r\n<div
+        class=\"c-footer__about\">\r\n    <h2 class=\"structure\">About TalkTalk TV</h2>\r\n
+        \   <ul class=\"b-maxWidthContainer\">\r\n        <li class=\"g-infoItem c-footer__about__item
+        c-infoItem c-infoItem--help\">\r\n            <a class=\"textDecorationNone\"
+        href=\"http://support.blinkbox.com\">\r\n                <h3 class=\"c-infoItem__title\">Help
+        &amp; support</h3>\r\n                <p class=\"c-infoItem__desc\">Let us
+        help you sort out any problems as quickly as possible, with the minimum of
+        fuss.</p>\r\n            </a>\r\n        </li>\r\n        <li class=\"g-infoItem
+        c-footer__about__item c-infoItem c-infoItem--how\">\r\n            <a class=\"textDecorationNone\"
+        href=\"/about\">\r\n                <h3 class=\"c-infoItem__title\">How it
+        works</h3>\r\n                <p class=\"c-infoItem__desc\">Discover everything
+        you need to know about how to watch and where to watch <span class=\"nowrap\">TalkTalk
+        TV.</span></p>\r\n            </a>\r\n        </li>\r\n        <li class=\"g-infoItem
+        c-footer__about__item c-infoItem c-infoItem--uv\">\r\n            <a class=\"textDecorationNone\"
+        href=\"/ultraviolet\">\r\n                <h3 class=\"c-infoItem__title\">UltraViolet</h3>\r\n
+        \               <p class=\"c-infoItem__desc\">Create digital copies of your
+        DVDs and Blu-rays and watch, store and share online.</p>\r\n            </a>\r\n
+        \       </li>\r\n        <li class=\"g-infoItem c-footer__about__item c-infoItem
+        c-infoItem--giftcard\">\r\n            <a class=\"textDecorationNone\" href=\"http://www.blinkbox.com/redeem\">\r\n
+        \               <h3 class=\"c-infoItem__title\">blinkbox cards</h3>\r\n                    <p
+        class=\"c-infoItem__desc\">Redeem your blinkbox Movie &amp; TV Cards and hudl2
+        movie magic codes.</p>\r\n            </a>\r\n        </li>\r\n    </ul>\r\n</div>\r\n<div
+        class=\"divider\">\r\n    <div class=\"b-maxWidthContainer c-footer__social\">\r\n
+        \       <h2 class=\"c-footer__social__title\">Follow us</h2>\r\n        <p
+        class=\"c-footer__social__desc\">Keep up to date with all the latest movie
+        and TV news, competitions and giveaways</p>\r\n        <ul class=\"b-listInline\">\r\n
+        \           <li class=\"b-listInline__item\">\r\n                <a class=\"c-socialLink
+        c-socialLink--facebook ir\" href=\"https://www.facebook.com/talktalktvstore\"
+        target=\"_blank\">Facebook</a>\r\n            </li>\r\n            <li class=\"b-listInline__item\">\r\n
+        \               <a class=\"c-socialLink c-socialLink--twitter ir\" href=\"https://twitter.com/talktalktvstore\"
+        target=\"_blank\">Twitter</a>\r\n            </li>\r\n        </ul>\r\n    </div>\r\n</div>\r\n
+        \           <div class=\"divider\">\r\n                <h2 class=\"structure\">TalkTalk
+        TV links</h2>\r\n<div class=\"b-maxWidthContainer\">\r\n    <ul class=\"c-footer__links\">\r\n
+        \       <li class=\"c-footer__links__item\">\r\n            <a class=\"c-footer__links__link
+        textDecorationNone\" href=\"/about\">About TalkTalk TV</a>\r\n        </li>\r\n
+        \       <li class=\"c-footer__links__item\">\r\n            <a class=\"c-footer__links__link
+        textDecorationNone\" href=\"https://support.blinkbox.com/hc/en-gb/articles/206619957\">Terms
+        &amp; Conditions</a>\r\n        </li>\r\n        <li class=\"c-footer__links__item\">\r\n
+        \           <a class=\"c-footer__links__link textDecorationNone\" href=\"https://support.blinkbox.com/hc/en-gb/articles/205879628\">Privacy
+        Policy</a>\r\n        </li>\r\n        <li class=\"c-footer__links__item\">\r\n
+        \           <a class=\"c-footer__links__link textDecorationNone\" href=\"https://support.blinkbox.com/hc/en-gb/articles/206619987\">Cookie
+        Policy</a>\r\n        </li>\r\n    </ul>\r\n    <p class=\"c-footer__copyright\">&copy;
+        Copyright 2016 TalkTalk TV Entertainment Limited. <span class=\"nowrap\">All
+        rights reserved.</span></p>\r\n</div>\r\n\r\n            </div>\r\n        </footer>\r\n\r\n
+        \   \r\n\r\n    \r\n    \r\n    <script src=\"//ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js\"></script>\r\n<script>(window.jQuery)||document.write('<script
+        src=\"/bundles/scripts/341/JQuery_v1_11_1.js\"><\\/script>');</script>\r\n\r\n
+        \   <script type=\"text/javascript\">\r\n        // Add jQuery noConflict
+        to avoid prototype clashes\r\n        jQuery.noConflict();\r\n    </script>\r\n\r\n
+        \   \r\n    <script src=\"/bundles/scripts/341/Global.js?v=zPB5APghGJ5qJD-wIFnHkhdky08vuOnJAeDFoY2h2FI1\"></script>\r\n\r\n\r\n
+        \       <script type=\"text/javascript\">\r\n            jQuery(document).ready(function
+        () {\r\n                BlinkBox.Analytics.init({\"affiliateWindowMerchantId\":\"2481\",\"affiliateWindowTestEnabled\":true,\"assetType\":\"Movie\",\"contentAssetId\":\"28710\",\"deviceFamilyId\":\"1\",\"dfaCatId\":\"movie695\",\"dfaTypeId\":\"movie335\",\"eventType\":\"Clips\",\"floodlightSrc\":\"3343247\",\"genreId\":\"160,166,168\",\"globalId\":\"0\",\"googleAnalyticsId\":\"UA-3023792-1\",\"memberId\":\"0\",\"productionTitle\":\"The
+        Dark Knight\",\"studioId\":\"1631\",\"trackComscoreEnabled\":true,\"trackPerfectStormEnabled\":true,\"userSegment\":\"Anonymous\",\"userToken\":\"d91d68f1c6394522b5805d341a8184d7\"});\r\n
+        \           });\r\n        </script>\r\n\r\n    \r\n    \r\n    <script src=\"/bundles/scripts/341/MoviePage.js?v=32bo7jqdpnZTQ6VJj4-f3qS3J2B5vSsjhQRz5q4fOkg1\"></script>\r\n\r\n
+        \   <script type=\"text/javascript\">\r\n    var pwidget_config = {\r\n        publisherKey:
+        \"29ko2an79c9h7l2du1oq\",\r\n        shareQuote: false,\r\n        copypaste:
+        false,\r\n        locale: \"en-gb\",\r\n        defaults:\r\n        {\r\n
+        \           services: { twitter: { via: \"TalkTalkTVStore\" } },\r\n            afterShare:
+        false\r\n        }\r\n    };\r\n</script>\r\n<script src=\"https://s.po.st/static/v3/post-widget.js#clean=true\"
+        type=\"text/javascript\" async></script>\r\n<script>\r\n    (function () {\r\n
+        \       var style = document.createElement('link');\r\n        style.rel =
+        'stylesheet';\r\n        style.type = 'text/css';\r\n        style.href =
+        '/Css-Generated-Versioned/Less/Lib/SharePlugin.5e7d5287.css';\r\n        document.getElementsByTagName('head')[0].appendChild(style);\r\n
+        \   })();\r\n</script>\r\n    \r\n\r\n    \r\n\r\n\r\n\r\n    \r\n\r\n    \r\n\r\n
+        \   \r\n    <script type=\"text/javascript\">\r\n    setTimeout(function ()
+        {\r\n        var a = document.createElement(\"script\");\r\n        var b
+        = document.getElementsByTagName(\"script\")[0];\r\n        a.src = document.location.protocol
+        + \"//script.crazyegg.com/pages/scripts/0029/4739.js?\" + Math.floor(new Date().getTime()
+        / 3600000);\r\n        a.async = true; a.type = \"text/javascript\";\r\n        b.parentNode.insertBefore(a,
+        b);\r\n    }, 1);\r\n</script>\r\n</body>\r\n</html>\r\n"
+    http_version: 
+  recorded_at: Sat, 30 Jan 2016 07:10:02 GMT
+recorded_with: VCR 3.0.1
