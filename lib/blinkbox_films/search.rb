@@ -10,7 +10,9 @@ module BlinkboxFilms
         {
           :title => rental_title(f),
           :url => rental_url(f),
-          :image_url => rental_image_url(f)
+          :image_url => rental_image_url(f),
+          :certificate => rental_certificate(f),
+          :running_time_in_minutes => rental_running_time_in_minutes(f)
         }
       }
 
@@ -51,6 +53,16 @@ module BlinkboxFilms
 
     def rental_image_url(fragment)
       fragment.css('noscript img').first.attributes['src'].value
+    end
+
+    def rental_certificate(fragment)
+      match = fragment.css('.c-assetCollectionItem__metaDataItem').map { |n| %r{CERT (\S+)}.match(n.content) }.compact.first
+      match && match[1]
+    end
+
+    def rental_running_time_in_minutes(fragment)
+      match = fragment.css('.c-assetCollectionItem__metaDataItem').map { |n| %r{(\d+) HRS? (\d+) MINS?}.match(n.content) }.compact.first
+      match && (match[1].to_i * 60 + match[2].to_i)
     end
   end
 end
