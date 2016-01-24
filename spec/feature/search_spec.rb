@@ -26,7 +26,7 @@ describe 'A search' do
     after do
       VCR.turn_on!
     end
-    
+
     it do
       expect {
         BlinkboxFilms::Search.new.search('dark knight') 
