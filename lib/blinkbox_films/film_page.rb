@@ -30,7 +30,7 @@ module BlinkboxFilms
     end
 
     def title
-      body.css('h1').first.content.strip
+      body.css('.g-assetTitle').first.content.strip
     end
 
     def image_url

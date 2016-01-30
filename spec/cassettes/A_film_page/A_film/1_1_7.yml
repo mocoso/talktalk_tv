@@ -12,7 +12,7 @@ http_interactions:
       Accept:
       - "*/*"
       Date:
-      - Sat, 30 Jan 2016 07:10:04 GMT
+      - Sun, 31 Jan 2016 06:14:10 GMT
   response:
     status:
       code: 200
@@ -21,11 +21,11 @@ http_interactions:
       Cache-Control:
       - private
       Set-Cookie:
-      - rocky=wXCaboDjuILTOUx8Rbb1dL_JTmsiaugyuK1006Nfk7BRXDCyr-f14BO42Te7DtB8x6N9uC6sSsKMLVrVmoxQFI4JSmoDBit0f7lM1w_BIeVp57v0KnkUbS7QYty2A9FtVQmvRf4AqxE7C66aF_BdwBUtKBhR_87gUP31ZldD94P2u4mmqBEjE4yr0b82-dZy;
-        domain=.blinkbox.com; expires=Wed, 30-Mar-2016 07:10:04 GMT; path=/; HttpOnly
+      - rocky=vY7EwQZVClI4_QHkfrKanNMPnJqGLlPqtGmRr7hdoFNuJh7_6LmmX31Fsup16ULBa4r0ZN0svP1cvy7R8xuH9FdZw74KPrux1BsumtuGsAVMCTecseL5ZM8D3uSOOzMCXMvn-K5nYLgNgaNZCJzU-FRsEOvCBvCZOMnpz6KbhJMqw0uy2k44MRrbacpLFgu-;
+        domain=.blinkbox.com; expires=Thu, 31-Mar-2016 06:14:09 GMT; path=/; HttpOnly
       - s_viewedMsgs=1,device; path=/; HttpOnly
-      - shortbread=eX_F-SdiqRyK-vLblgd9Cjuhms6bN08UIqN_huLFB8H4lr5v-L2gdSeFwaqudLB28r9cloIYEFf_w5nCPr74hg;
-        domain=.blinkbox.com; expires=Wed, 30-Mar-2016 07:10:04 GMT; path=/; HttpOnly
+      - shortbread=hcQKBmpm4bFBjDu-A1yciXsGqcEPLYKIE3LG3OKhKbRDYOVdV87riwhI2lP5_DbhKStKiu9swC-D7vd3f4GNpQ;
+        domain=.blinkbox.com; expires=Thu, 31-Mar-2016 06:14:09 GMT; path=/; HttpOnly
       Content-Length:
       - '65674'
       Content-Type:
@@ -41,7 +41,7 @@ http_interactions:
       X-Xss-Protection:
       - '1'
       Date:
-      - Sat, 30 Jan 2016 07:10:04 GMT
+      - Sun, 31 Jan 2016 06:14:09 GMT
       Connection:
       - keep-alive
     body:
@@ -733,7 +733,7 @@ http_interactions:
         \   \r\n    <script src=\"/bundles/scripts/341/Global.js?v=zPB5APghGJ5qJD-wIFnHkhdky08vuOnJAeDFoY2h2FI1\"></script>\r\n\r\n\r\n
         \       <script type=\"text/javascript\">\r\n            jQuery(document).ready(function
         () {\r\n                BlinkBox.Analytics.init({\"affiliateWindowMerchantId\":\"2481\",\"affiliateWindowTestEnabled\":true,\"assetType\":\"Movie\",\"contentAssetId\":\"28710\",\"deviceFamilyId\":\"1\",\"dfaCatId\":\"movie695\",\"dfaTypeId\":\"movie335\",\"eventType\":\"Clips\",\"floodlightSrc\":\"3343247\",\"genreId\":\"160,166,168\",\"globalId\":\"0\",\"googleAnalyticsId\":\"UA-3023792-1\",\"memberId\":\"0\",\"productionTitle\":\"The
-        Dark Knight\",\"studioId\":\"1631\",\"trackComscoreEnabled\":true,\"trackPerfectStormEnabled\":true,\"userSegment\":\"Anonymous\",\"userToken\":\"fcb8b9e151474eb6bab9a442f89d3298\"});\r\n
+        Dark Knight\",\"studioId\":\"1631\",\"trackComscoreEnabled\":true,\"trackPerfectStormEnabled\":true,\"userSegment\":\"Anonymous\",\"userToken\":\"21b0c168684d44f6b9b5004c8a403cbb\"});\r\n
         \           });\r\n        </script>\r\n\r\n    \r\n    \r\n    <script src=\"/bundles/scripts/341/MoviePage.js?v=32bo7jqdpnZTQ6VJj4-f3qS3J2B5vSsjhQRz5q4fOkg1\"></script>\r\n\r\n
         \   <script type=\"text/javascript\">\r\n    var pwidget_config = {\r\n        publisherKey:
         \"29ko2an79c9h7l2du1oq\",\r\n        shareQuote: false,\r\n        copypaste:
@@ -752,5 +752,5 @@ http_interactions:
         / 3600000);\r\n        a.async = true; a.type = \"text/javascript\";\r\n        b.parentNode.insertBefore(a,
         b);\r\n    }, 1);\r\n</script>\r\n</body>\r\n</html>\r\n"
     http_version: 
-  recorded_at: Sat, 30 Jan 2016 07:10:04 GMT
+  recorded_at: Sun, 31 Jan 2016 06:14:10 GMT
 recorded_with: VCR 3.0.1
