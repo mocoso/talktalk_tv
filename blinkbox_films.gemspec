@@ -1,6 +1,6 @@
 Gem::Specification.new do |s|
   s.name        = 'blinkbox_films'
-  s.version     = '0.0.5'
+  s.version     = '0.0.6'
   s.date        = '2015-12-28'
   s.summary     = "A simple search API for blinkbox.com"
   s.description = "Built with some wonky page scraping"
