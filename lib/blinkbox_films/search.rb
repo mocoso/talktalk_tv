@@ -29,7 +29,7 @@ module BlinkboxFilms
     end
 
     def response(query)
-      HTTPClient.new.get('http://www.blinkbox.com/search', { 'Search' => query })
+      HTTPClient.new.get('https://www.talktalktvstore.co.uk/search', { 'Search' => query })
     end
 
     def film_fragments(page)
@@ -42,8 +42,8 @@ module BlinkboxFilms
 
     def film_url(fragment)
       u = URI.parse(extract_film_path_or_url(fragment))
-      u.host ||= 'www.blinkbox.com'
-      u.scheme ||= 'http'
+      u.host ||= 'www.talktalktvstore.co.uk'
+      u.scheme ||= 'https'
       u.to_s
     end
 
