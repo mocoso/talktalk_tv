@@ -1,9 +1,9 @@
 require 'spec_helper'
-require 'blinkbox_films'
+require 'talktalk_tv'
 
 describe 'A film page', :vcr do
   context 'A film' do
-    subject { BlinkboxFilms::FilmPage.from_url('https://www.talktalktvstore.co.uk/movies/the-dark-knight-(28710)').film }
+    subject { TalkTalkTV::FilmPage.from_url('https://www.talktalktvstore.co.uk/movies/the-dark-knight-(28710)').film }
 
     it { expect(subject.title).to eq('The Dark Knight') }
     it { expect(subject.url).to eq('https://www.talktalktvstore.co.uk/movies/the-dark-knight-(28710)') }
@@ -16,7 +16,7 @@ describe 'A film page', :vcr do
   end
 
   context 'A single TV series' do
-    subject { BlinkboxFilms::FilmPage.from_url('https://www.talktalktvstore.co.uk/tv/12-monkeys-(2313)/s01-(3555)').film }
+    subject { TalkTalkTV::FilmPage.from_url('https://www.talktalktvstore.co.uk/tv/12-monkeys-(2313)/s01-(3555)').film }
 
     it { expect(subject.title).to eq('12 Monkeys') }
     it { expect(subject.url).to eq('https://www.talktalktvstore.co.uk/tv/12-monkeys-(2313)/s01-(3555)') }

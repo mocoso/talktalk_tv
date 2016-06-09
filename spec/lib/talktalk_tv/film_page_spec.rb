@@ -1,8 +1,8 @@
 require 'spec_helper'
 
-describe BlinkboxFilms::FilmPage do
+describe TalkTalkTV::FilmPage do
   describe '#buy_price' do
-    subject { BlinkboxFilms::FilmPage.new(body: body) }
+    subject { TalkTalkTV::FilmPage.new(body: body) }
 
     context 'standard price' do
       let(:body) {

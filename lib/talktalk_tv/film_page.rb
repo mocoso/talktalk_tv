@@ -2,7 +2,7 @@ require 'uri'
 require 'nokogiri'
 require 'httpclient'
 
-module BlinkboxFilms
+module TalkTalkTV
   class FilmPage
     def initialize(body:, url: nil)
       @body = body

@@ -1,13 +1,13 @@
 require 'spec_helper'
-require 'blinkbox_films'
+require 'talktalk_tv'
 
 describe 'A search' do
   context 'with zero results', :vcr do
-    it { expect(BlinkboxFilms::Search.new.search('qwerty')).to be_empty }
+    it { expect(TalkTalkTV::Search.new.search('qwerty')).to be_empty }
   end
 
   context 'with some results', :vcr do
-    subject { BlinkboxFilms::Search.new.search('dark knight') }
+    subject { TalkTalkTV::Search.new.search('dark knight') }
 
     it { expect(subject).to_not be_empty }
     it { expect(subject.first.title).to eq('The Dark Knight') }
@@ -31,8 +31,8 @@ describe 'A search' do
 
     it do
       expect {
-        BlinkboxFilms::Search.new.search('dark knight') 
-      }.to raise_error('BlinkboxFilms::SearchResultsPageNotRecognised')
+        TalkTalkTV::Search.new.search('dark knight') 
+      }.to raise_error('TalkTalkTV::SearchResultsPageNotRecognised')
     end
   end
 end

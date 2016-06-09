@@ -1,12 +1,12 @@
 Gem::Specification.new do |s|
-  s.name        = 'blinkbox_films'
+  s.name        = 'talktalk_tv'
   s.version     = '0.0.6'
   s.date        = '2015-12-28'
-  s.summary     = "A simple search API for blinkbox.com"
+  s.summary     = "A simple search API for https://www.talktalktvstore.co.uk"
   s.description = "Built with some wonky page scraping"
   s.authors     = ["Joel Chippindale"]
   s.email       = 'joel@joelchippindale.com'
-  s.homepage    = 'https://github.com/mocoso/blinkbox_films'
+  s.homepage    = 'https://github.com/mocoso/talktalk_tv'
   s.license = 'MIT'
   s.files       = Dir['lib/**/*.rb'] + Dir['spec/**/*.rb'] +
                     ['Rakefile', 'LICENSE.txt']

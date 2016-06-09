@@ -1,4 +1,4 @@
-module BlinkboxFilms
+module TalkTalkTV
   class Film
     def initialize(
       title:,

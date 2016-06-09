@@ -2,7 +2,7 @@ require 'uri'
 require 'nokogiri'
 require 'httpclient'
 
-module BlinkboxFilms
+module TalkTalkTV
   class Search
     def search(query)
       r = response(query)
@@ -17,7 +17,7 @@ module BlinkboxFilms
       }
 
       if films.empty? & !no_results_page?(r.body)
-        raise BlinkboxFilms::SearchResultsPageNotRecognised
+        raise TalkTalkTV::SearchResultsPageNotRecognised
       else
         films
       end
