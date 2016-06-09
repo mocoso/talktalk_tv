@@ -8,11 +8,11 @@ http_interactions:
       string: ''
     headers:
       User-Agent:
-      - HTTPClient/1.0 (2.7.1, ruby 2.2.4 (2015-12-16))
+      - HTTPClient/1.0 (2.8.0, ruby 2.3.0 (2015-12-25))
       Accept:
       - "*/*"
       Date:
-      - Mon, 09 May 2016 05:11:06 GMT
+      - Thu, 09 Jun 2016 04:54:35 GMT
   response:
     status:
       code: 200
@@ -23,18 +23,18 @@ http_interactions:
       Pragma:
       - no-cache
       Content-Length:
-      - '35824'
+      - '33693'
       Content-Type:
       - text/html; charset=utf-8
       Expires:
       - "-1"
       Set-Cookie:
-      - rocky=as2j_9pftdBN5z4ZfblXwyhRp-tirkdklIs3qbMldC44bkVnjaaoTC0ey1YB5COq7yQJ6D_2W4Vk1Zvom1vJQK3oUcIwqdJtweKdqGZnaWe5lnlM0w6rBoCDg5fBmVeNjfXn80colzMMWJmrbbvJDisPR_Li3niA1Vt8NCJ-PFixJI6ih-IEMlNl2Q81YrnA;
-        domain=.talktalktvstore.co.uk; expires=Fri, 08-Jul-2016 05:11:06 GMT; path=/;
+      - rocky=2tnswDZqR-eC_ENfaGDSs-_QHTpwhe51Nxjz7RtjGlGp_7KMFx-r2Yd-9d-kSa3VjE0DK6HC17pb5N9dbj-WQCqX9Cdbmrvgv23GPiZz2vtKPXIYVOIpRRJRQOk-5hNOZkDMzWITMb0kYwY43QbLtjmCpJbeZaAwynM3yLoIR_chV38nJiBSfaW3SsRhft_6;
+        domain=.talktalktvstore.co.uk; expires=Mon, 08-Aug-2016 04:54:35 GMT; path=/;
         secure; HttpOnly
       - s_viewedMsgs=1,device; path=/; secure; HttpOnly
-      - shortbread=XMHzpe5UqtgR6S0k3LcbmbDI9MrlSKlU531JKaxAVogEh6liKc0ztKH4jfzWjJHzzUDIw3OVJR9NDMETtLOoIw;
-        domain=.talktalktvstore.co.uk; expires=Fri, 08-Jul-2016 05:11:06 GMT; path=/;
+      - shortbread=_YqDyRa_60CRMCwOpfVZOFar4BnLZ9nfccREL_90op5jYzAuDi5zsn1GYX947Rvv8GRkdFF5jp-Hl5otRpr9mg;
+        domain=.talktalktvstore.co.uk; expires=Mon, 08-Aug-2016 04:54:35 GMT; path=/;
         secure; HttpOnly
       X-Frame-Options:
       - SAMEORIGIN
@@ -45,7 +45,7 @@ http_interactions:
       X-Xss-Protection:
       - '1'
       Date:
-      - Mon, 09 May 2016 05:11:05 GMT
+      - Thu, 09 Jun 2016 04:54:35 GMT
     body:
       encoding: UTF-8
       string: "\r\n<!DOCTYPE html>\r\n\r\n<!--[if IE 7]>    <html class=\"ie7\" lang=\"en\">
@@ -60,11 +60,10 @@ http_interactions:
         content=\"Watch movies online at TalkTalk TV. You can rent and buy movies
         and TV shows to download or stream, on your iPad, Hudl, Xbox, PlayStation,
         Internet TV or PC.\" name=\"description\" />\r\n\r\n    <link href=\"https://www.talktalktvstore.co.uk/search?search=dark
-        knight\" rel=\"canonical\" />\r\n\r\n\r\n\r\n\r\n    \r\n    \r\n    <meta
-        http-equiv=\"X-UA-Compatible\" content=\"requiresActiveX=true,IE=edge\" />\r\n<meta
-        name=\"msXboxApplication-ID\" content=\"384B07D1\" />\r\n<meta name=\"msapplication-tap-highlight\"
-        content=\"no\" />\r\n\n\n\n<link rel=\"apple-touch-icon\" sizes=\"57x57\"
-        href=\"/VersionedContent/P0amHs7IL0LFHlzGrI2GZw/Images/FavIcon/apple-touch-icon-57x57.png\">\n<link
+        knight\" rel=\"canonical\" />\r\n\r\n\r\n\r\n\r\n        \r\n    <meta http-equiv=\"X-UA-Compatible\"
+        content=\"requiresActiveX=true,IE=edge\" />\r\n<meta name=\"msXboxApplication-ID\"
+        content=\"384B07D1\" />\r\n<meta name=\"msapplication-tap-highlight\" content=\"no\"
+        />\r\n\n\n\n<link rel=\"apple-touch-icon\" sizes=\"57x57\" href=\"/VersionedContent/P0amHs7IL0LFHlzGrI2GZw/Images/FavIcon/apple-touch-icon-57x57.png\">\n<link
         rel=\"apple-touch-icon\" sizes=\"114x114\" href=\"/VersionedContent/X8LyYIK11V5p4A2zXnKhdw/Images/FavIcon/apple-touch-icon-114x114.png\">\n<link
         rel=\"apple-touch-icon\" sizes=\"72x72\" href=\"/VersionedContent/SOiQO2EycfNvzHb3JFG3Q/Images/FavIcon/apple-touch-icon-72x72.png\">\n<link
         rel=\"apple-touch-icon\" sizes=\"144x144\" href=\"/VersionedContent/3j2RH06ZBvPk0PCR5z8O5g/Images/FavIcon/apple-touch-icon-144x144.png\">\n<link
@@ -81,12 +80,12 @@ http_interactions:
         sizes=\"16x16\">\n<link rel=\"icon\" type=\"image/png\" href=\"/VersionedContent/xcz31IKBGzGUH2vxgA524g/Images/FavIcon/favicon-32x32.png\"
         sizes=\"32x32\">\n<meta name=\"msapplication-TileColor\" content=\"#34a8e2\">\n<meta
         name=\"msapplication-TileImage\" content=\"/VersionedContent/qaZRvCLCnuOYrMs2Qd6ZRg/Images/FavIcon/mstile-144x144.png\">\n<meta
-        name=\"application-name\" content=\"TalkTalk TV Store\">\r\n    <link href=\"/Css-Generated-Versioned/Layout/Responsive/Responsive.f483f229.css\"
+        name=\"application-name\" content=\"TalkTalk TV Store\">\r\n    <link href=\"/Css-Generated-Versioned/Layout/Responsive/Responsive.3508d74b.css\"
         media=\"screen\" rel=\"stylesheet\" type=\"text/css\" />\r\n    \r\n    <link
-        href=\"/Css-Generated-Versioned/Less/Pages/Search/SearchResults.f0b969ac.css\"
+        href=\"/Css-Generated-Versioned/Less/Pages/Search/SearchResults.ce8c756b.css\"
         media=\"screen\" rel=\"stylesheet\" type=\"text/css\" />\r\n\r\n    \r\n\r\n
         \   <meta name=\"viewport\" content=\"width=device-width, initial-scale =
-        1.0, user-scalable = no\">\r\n\r\n    <!--[if lte IE 8]><script src=\"/bundles/scripts/344/SharedRespond.js?v=pqdAqYDnaNnKhR2cT1rPZJA1iRKoPCHJQ6OXsj8KRos1\"></script>\r\n<![endif]-->\r\n
+        1.0, user-scalable = no\">\r\n\r\n    <!--[if lte IE 8]><script src=\"/bundles/scripts/345/SharedRespond.js?v=pqdAqYDnaNnKhR2cT1rPZJA1iRKoPCHJQ6OXsj8KRos1\"></script>\r\n<![endif]-->\r\n
         \   \r\n        <script type=\"text/javascript\">\r\n            (function
         (i, s, o, g, r, a, m) {\r\n                i['GoogleAnalyticsObject'] = r;
         i[r] = i[r] || function () {\r\n                    (i[r].q = i[r].q || []).push(arguments)\r\n
@@ -100,12 +99,12 @@ http_interactions:
         \"Anonymous\"]);\r\n    </script>\r\n    <script src=\"//cdn.optimizely.com/js/2581840084.js\"></script>\r\n
         \   <!-- End of Optimizely code -->\r\n\r\n</head>\r\n<body class=\"nojs\">\r\n
         \   <script type='text/javascript'>window.onerror = function(message, url,
-        lineNumber) {var a=encodeURIComponent||escape; (new Image).src='https\\x3a\\x2f\\x2fwww.talktalktvstore.co.uk\\x2fArea\\x2fServices\\x2fTracking\\x2fClientError'+'\\x3furl\\x3d'
+        lineNumber) {var a=encodeURIComponent||escape; (new Image).src='\\x2ftracking\\x2fclient-error'+'\\x3furl\\x3d'
         + a(url) + '\\x26message\\x3d' + a(message) + '\\x26line\\x3d' + a(lineNumber)
         ;return true; };</script>\r\n<script type=\"text/javascript\">\r\n    var
         body = document.getElementsByTagName('body');\r\n    body[0].className = body[0].className.replace(new
         RegExp('(\\\\s|^)' + 'nojs' + '(\\\\s|$)'), 'js');    \r\n</script>\r\n\r\n<script
-        src=\"/bundles/scripts/344/Modernizr.js?v=wwCwrbs0IQmNgQMV5mEMMiUNbdmeWu7N-PAfKPJ3dHQ1\"></script>\r\n\r\n\r\n\r\n<script
+        src=\"/bundles/scripts/345/Modernizr.js?v=wwCwrbs0IQmNgQMV5mEMMiUNbdmeWu7N-PAfKPJ3dHQ1\"></script>\r\n\r\n\r\n\r\n<script
         language=\"javascript\">\r\n    (function () {\r\n        if (!navigator.userAgent.match(/Windows
         Phone 8\\.0/)) {\r\n            var msViewportStyle = document.createElement(\"style\");\r\n
         \           msViewportStyle.type = \"text\\/css\";\r\n            \r\n            //
@@ -252,141 +251,121 @@ http_interactions:
         class=\"b-assetCollection p-assetCollection clearBoth jsPaginationItemsContainer\">\r\n
         \                       <li class=\"b-assetCollection__item jListItem jsPaginationItem\">\r\n
         \       <article  class=\"c-assetOverlay c-assetCollectionItem c-assetCollectionItem--dark\">\r\n
-        \   <div  class=\"c-assetOverlay__container\">\r\n        <a class=\"c-assetOverlay__imageContainer
-        j-watchLaterContainer textDecorationNone\" href=\"/movies/the-dark-knight-(28710)\"
+        \   <a class=\"textDecorationNone\" href=\"/movies/the-dark-knight-(28710)\"
         data-tracking-click=\"{&quot;Action&quot;:&quot;MoviePage1ItemClicked&quot;,&quot;Category&quot;:&quot;SearchResults&quot;,&quot;IsAjax&quot;:false,&quot;Label&quot;:&quot;Item1&quot;}\">\r\n
-        \           \r\n\r\n<div  class=\"imageContainer pending c-imageContainer
-        c-imageContainer--collectionItemDark c-imageContainer--shadow\" >\r\n\r\n
-        \       <img alt=\"The Dark Knight\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAALIAAABkAQMAAAAYI/gZAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAANQTFRF////p8QbyAAAAAF0Uk5TAEDm2GYAAAAZSURBVBgZYxgFo2AUjIJRMApGwSgYBVQFAAlgAAFcIoUVAAAAAElFTkSuQmCC\"
+        \       <div  class=\"c-assetOverlay__container\">\r\n            <span class=\"c-assetOverlay__imageContainer
+        j-watchLaterContainer\">\r\n                \r\n\r\n<div  class=\"imageContainer
+        pending c-imageContainer c-imageContainer--collectionItemDark c-imageContainer--shadow\"
+        >\r\n\r\n        <img alt=\"The Dark Knight\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAALIAAABkAQMAAAAYI/gZAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAANQTFRF////p8QbyAAAAAF0Uk5TAEDm2GYAAAAZSURBVBgZYxgFo2AUjIJRMApGwSgYBVQFAAlgAAFcIoUVAAAAAElFTkSuQmCC\"
         class=\"placeholder c-imageContainer__image c-imageContainer__image--collectionItemDark\"
-        data-src-template=\"https://fa-i-p1.ttcdn.uk/i/contentasset31/000/028/710/1gkiab4e/v=319/w={width};h={height};rm=Crop;q={quality}/image.jpg\"
+        data-src-template=\"https://fa-i-p1.ttcdn.uk/i/contentasset31/000/028/710/1gkiab4e/v=320/w={width};h={height};rm=Crop;q={quality}/image.jpg\"
         data-aspect-ratio=\"1.77777778\" data-quality=\"85\" data-force-quality=\"true\"
-        />\r\n        <noscript>\r\n            <img alt=\"The Dark Knight\" src=\"https://fa-i-p1.ttcdn.uk/i/contentasset31/000/028/710/1gkiab4e/v=319/w=234;h=132;rm=Crop;q=85/image.jpg\"
-        />\r\n        </noscript>\r\n\r\n\r\n</div>\r\n        </a>\r\n        \r\n
-        \   </div>\r\n    <div  class=\"c-assetCollectionItem__info\">\r\n        <h3
-        class=\"clearBoth\">\r\n            <a  class=\"c-assetCollectionItem__title\"
-        href=\"/movies/the-dark-knight-(28710)\" data-tracking-click=\"{&quot;Action&quot;:&quot;MoviePage1ItemClicked&quot;,&quot;Category&quot;:&quot;SearchResults&quot;,&quot;IsAjax&quot;:false,&quot;Label&quot;:&quot;Item1&quot;}\">\r\n
-        \               The Dark Knight\r\n            </a>\r\n        </h3>\r\n        <a
-        class=\"textDecorationNone\" href=\"/movies/the-dark-knight-(28710)\" data-tracking-click=\"{&quot;Action&quot;:&quot;MoviePage1ItemClicked&quot;,&quot;Category&quot;:&quot;SearchResults&quot;,&quot;IsAjax&quot;:false,&quot;Label&quot;:&quot;Item1&quot;}\">\r\n
-        \           <dl class=\"b-listFloat c-assetCollectionItem__metaData\">\r\n
-        \               <dt class=\"structure\">Certification</dt>\r\n                <dd
-        \ class=\"c-assetCollectionItem__metaDataItem b-listFloat__item bulletSeparator
-        textUpper c-assetCollectionItem__metaDataItem--dark c-assetCollectionItem__metaDataItem--no-subtitle\">CERT
+        />\r\n        <noscript>\r\n            <img alt=\"The Dark Knight\" src=\"https://fa-i-p1.ttcdn.uk/i/contentasset31/000/028/710/1gkiab4e/v=320/w=234;h=132;rm=Crop;q=85/image.jpg\"
+        />\r\n        </noscript>\r\n\r\n\r\n</div>\r\n            </span>\r\n        </div>\r\n
+        \       <div  class=\"c-assetCollectionItem__info\">\r\n            <h3  class=\"c-assetCollectionItem__title
+        clearBoth\">\r\n                The Dark Knight\r\n            </h3>\r\n            <dl
+        class=\"b-listFloat c-assetCollectionItem__metaData\">\r\n    <dt class=\"structure\">Certification</dt>\r\n
+        \               <dd  class=\"c-assetCollectionItem__metaDataItem b-listFloat__item
+        bulletSeparator textUpper c-assetCollectionItem__metaDataItem--dark c-assetCollectionItem__metaDataItem--no-subtitle\">CERT
         12</dd>\r\n                <dt class=\"structure\">Running time</dt>\r\n                <dd
         \ class=\"c-assetCollectionItem__metaDataItem c-assetCollectionItem__runtime
         runTime b-listFloat__item bulletSeparator c-assetCollectionItem__metaDataItem--dark
         c-assetCollectionItem__metaDataItem--no-subtitle\">2 HRS 32 MINS</dd>\r\n
-        \               \r\n            </dl>\r\n        </a>\r\n    </div>\r\n</article>\r\n\r\n
+        \               \r\n            </dl>\r\n        </div>\r\n    </a>\r\n    \r\n</article>\r\n\r\n
         \   </li>\r\n    <li class=\"b-assetCollection__item jListItem jsPaginationItem\">\r\n
         \       <article  class=\"c-assetOverlay c-assetCollectionItem c-assetCollectionItem--dark\">\r\n
-        \   <div  class=\"c-assetOverlay__container\">\r\n        <a class=\"c-assetOverlay__imageContainer
-        j-watchLaterContainer textDecorationNone\" href=\"/movies/the-dark-knight-rises-(37807)\"
+        \   <a class=\"textDecorationNone\" href=\"/movies/the-dark-knight-rises-(37807)\"
         data-tracking-click=\"{&quot;Action&quot;:&quot;MoviePage1ItemClicked&quot;,&quot;Category&quot;:&quot;SearchResults&quot;,&quot;IsAjax&quot;:false,&quot;Label&quot;:&quot;Item2&quot;}\">\r\n
-        \           \r\n\r\n<div  class=\"imageContainer pending c-imageContainer
-        c-imageContainer--collectionItemDark c-imageContainer--shadow\" >\r\n\r\n
-        \       <img alt=\"The Dark Knight Rises\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAALIAAABkAQMAAAAYI/gZAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAANQTFRF////p8QbyAAAAAF0Uk5TAEDm2GYAAAAZSURBVBgZYxgFo2AUjIJRMApGwSgYBVQFAAlgAAFcIoUVAAAAAElFTkSuQmCC\"
+        \       <div  class=\"c-assetOverlay__container\">\r\n            <span class=\"c-assetOverlay__imageContainer
+        j-watchLaterContainer\">\r\n                \r\n\r\n<div  class=\"imageContainer
+        pending c-imageContainer c-imageContainer--collectionItemDark c-imageContainer--shadow\"
+        >\r\n\r\n        <img alt=\"The Dark Knight Rises\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAALIAAABkAQMAAAAYI/gZAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAANQTFRF////p8QbyAAAAAF0Uk5TAEDm2GYAAAAZSURBVBgZYxgFo2AUjIJRMApGwSgYBVQFAAlgAAFcIoUVAAAAAElFTkSuQmCC\"
         class=\"placeholder c-imageContainer__image c-imageContainer__image--collectionItemDark\"
-        data-src-template=\"https://fa-i-p1.ttcdn.uk/i/contentasset15/000/037/807/gtqjeb2w/v=319/w={width};h={height};rm=Crop;q={quality}/image.jpg\"
+        data-src-template=\"https://fa-i-p1.ttcdn.uk/i/contentasset15/000/037/807/gtqjeb2w/v=320/w={width};h={height};rm=Crop;q={quality}/image.jpg\"
         data-aspect-ratio=\"1.77777778\" data-quality=\"85\" data-force-quality=\"true\"
         />\r\n        <noscript>\r\n            <img alt=\"The Dark Knight Rises\"
-        src=\"https://fa-i-p1.ttcdn.uk/i/contentasset15/000/037/807/gtqjeb2w/v=319/w=234;h=132;rm=Crop;q=85/image.jpg\"
-        />\r\n        </noscript>\r\n\r\n\r\n</div>\r\n        </a>\r\n        \r\n
-        \   </div>\r\n    <div  class=\"c-assetCollectionItem__info\">\r\n        <h3
-        class=\"clearBoth\">\r\n            <a  class=\"c-assetCollectionItem__title\"
-        href=\"/movies/the-dark-knight-rises-(37807)\" data-tracking-click=\"{&quot;Action&quot;:&quot;MoviePage1ItemClicked&quot;,&quot;Category&quot;:&quot;SearchResults&quot;,&quot;IsAjax&quot;:false,&quot;Label&quot;:&quot;Item2&quot;}\">\r\n
-        \               The Dark Knight Rises\r\n            </a>\r\n        </h3>\r\n
-        \       <a class=\"textDecorationNone\" href=\"/movies/the-dark-knight-rises-(37807)\"
-        data-tracking-click=\"{&quot;Action&quot;:&quot;MoviePage1ItemClicked&quot;,&quot;Category&quot;:&quot;SearchResults&quot;,&quot;IsAjax&quot;:false,&quot;Label&quot;:&quot;Item2&quot;}\">\r\n
+        src=\"https://fa-i-p1.ttcdn.uk/i/contentasset15/000/037/807/gtqjeb2w/v=320/w=234;h=132;rm=Crop;q=85/image.jpg\"
+        />\r\n        </noscript>\r\n\r\n\r\n</div>\r\n            </span>\r\n        </div>\r\n
+        \       <div  class=\"c-assetCollectionItem__info\">\r\n            <h3  class=\"c-assetCollectionItem__title
+        clearBoth\">\r\n                The Dark Knight Rises\r\n            </h3>\r\n
         \           <dl class=\"b-listFloat c-assetCollectionItem__metaData\">\r\n
-        \               <dt class=\"structure\">Certification</dt>\r\n                <dd
-        \ class=\"c-assetCollectionItem__metaDataItem b-listFloat__item bulletSeparator
-        textUpper c-assetCollectionItem__metaDataItem--dark c-assetCollectionItem__metaDataItem--no-subtitle\">CERT
-        12</dd>\r\n                <dt class=\"structure\">Running time</dt>\r\n                <dd
-        \ class=\"c-assetCollectionItem__metaDataItem c-assetCollectionItem__runtime
-        runTime b-listFloat__item bulletSeparator c-assetCollectionItem__metaDataItem--dark
+        \   <dt class=\"structure\">Certification</dt>\r\n                <dd  class=\"c-assetCollectionItem__metaDataItem
+        b-listFloat__item bulletSeparator textUpper c-assetCollectionItem__metaDataItem--dark
+        c-assetCollectionItem__metaDataItem--no-subtitle\">CERT 12</dd>\r\n                <dt
+        class=\"structure\">Running time</dt>\r\n                <dd  class=\"c-assetCollectionItem__metaDataItem
+        c-assetCollectionItem__runtime runTime b-listFloat__item bulletSeparator c-assetCollectionItem__metaDataItem--dark
         c-assetCollectionItem__metaDataItem--no-subtitle\">2 HRS 44 MINS</dd>\r\n
-        \               \r\n            </dl>\r\n        </a>\r\n    </div>\r\n</article>\r\n\r\n
+        \               \r\n            </dl>\r\n        </div>\r\n    </a>\r\n    \r\n</article>\r\n\r\n
         \   </li>\r\n    <li class=\"b-assetCollection__item jListItem jsPaginationItem\">\r\n
         \       <article  class=\"c-assetOverlay c-assetCollectionItem c-assetCollectionItem--dark\">\r\n
-        \   <div  class=\"c-assetOverlay__container\">\r\n        <a class=\"c-assetOverlay__imageContainer
-        j-watchLaterContainer textDecorationNone\" href=\"/movies/batman-the-dark-knight-returns-part-1-(48886)\"
+        \   <a class=\"textDecorationNone\" href=\"/movies/batman-the-dark-knight-returns-part-1-(48886)\"
         data-tracking-click=\"{&quot;Action&quot;:&quot;MoviePage1ItemClicked&quot;,&quot;Category&quot;:&quot;SearchResults&quot;,&quot;IsAjax&quot;:false,&quot;Label&quot;:&quot;Item3&quot;}\">\r\n
-        \           \r\n\r\n<div  class=\"imageContainer pending c-imageContainer
-        c-imageContainer--collectionItemDark c-imageContainer--shadow\" >\r\n\r\n
-        \       <img alt=\"Batman: The Dark Knight Returns Part 1\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAALIAAABkAQMAAAAYI/gZAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAANQTFRF////p8QbyAAAAAF0Uk5TAEDm2GYAAAAZSURBVBgZYxgFo2AUjIJRMApGwSgYBVQFAAlgAAFcIoUVAAAAAElFTkSuQmCC\"
+        \       <div  class=\"c-assetOverlay__container\">\r\n            <span class=\"c-assetOverlay__imageContainer
+        j-watchLaterContainer\">\r\n                \r\n\r\n<div  class=\"imageContainer
+        pending c-imageContainer c-imageContainer--collectionItemDark c-imageContainer--shadow\"
+        >\r\n\r\n        <img alt=\"Batman: The Dark Knight Returns Part 1\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAALIAAABkAQMAAAAYI/gZAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAANQTFRF////p8QbyAAAAAF0Uk5TAEDm2GYAAAAZSURBVBgZYxgFo2AUjIJRMApGwSgYBVQFAAlgAAFcIoUVAAAAAElFTkSuQmCC\"
         class=\"placeholder c-imageContainer__image c-imageContainer__image--collectionItemDark\"
-        data-src-template=\"https://fa-i-p1.ttcdn.uk/i/contentasset31/000/048/886/zbk1pi2r/v=319/w={width};h={height};rm=Crop;q={quality}/image.jpg\"
+        data-src-template=\"https://fa-i-p1.ttcdn.uk/i/contentasset31/000/048/886/zbk1pi2r/v=320/w={width};h={height};rm=Crop;q={quality}/image.jpg\"
         data-aspect-ratio=\"1.77777778\" data-quality=\"85\" data-force-quality=\"true\"
         />\r\n        <noscript>\r\n            <img alt=\"Batman: The Dark Knight
-        Returns Part 1\" src=\"https://fa-i-p1.ttcdn.uk/i/contentasset31/000/048/886/zbk1pi2r/v=319/w=234;h=132;rm=Crop;q=85/image.jpg\"
-        />\r\n        </noscript>\r\n\r\n\r\n</div>\r\n        </a>\r\n        \r\n
-        \   </div>\r\n    <div  class=\"c-assetCollectionItem__info\">\r\n        <h3
-        class=\"clearBoth\">\r\n            <a  class=\"c-assetCollectionItem__title
-        jEllipsis\" href=\"/movies/batman-the-dark-knight-returns-part-1-(48886)\"
-        data-tracking-click=\"{&quot;Action&quot;:&quot;MoviePage1ItemClicked&quot;,&quot;Category&quot;:&quot;SearchResults&quot;,&quot;IsAjax&quot;:false,&quot;Label&quot;:&quot;Item3&quot;}\">\r\n
-        \               Batman: The Dark Knight Returns Part 1\r\n            </a>\r\n
-        \       </h3>\r\n        <a class=\"textDecorationNone\" href=\"/movies/batman-the-dark-knight-returns-part-1-(48886)\"
-        data-tracking-click=\"{&quot;Action&quot;:&quot;MoviePage1ItemClicked&quot;,&quot;Category&quot;:&quot;SearchResults&quot;,&quot;IsAjax&quot;:false,&quot;Label&quot;:&quot;Item3&quot;}\">\r\n
-        \           <dl class=\"b-listFloat c-assetCollectionItem__metaData\">\r\n
-        \               <dt class=\"structure\">Certification</dt>\r\n                <dd
-        \ class=\"c-assetCollectionItem__metaDataItem b-listFloat__item bulletSeparator
-        textUpper c-assetCollectionItem__metaDataItem--dark c-assetCollectionItem__metaDataItem--no-subtitle\">CERT
-        15</dd>\r\n                <dt class=\"structure\">Running time</dt>\r\n                <dd
-        \ class=\"c-assetCollectionItem__metaDataItem c-assetCollectionItem__runtime
-        runTime b-listFloat__item bulletSeparator c-assetCollectionItem__metaDataItem--dark
+        Returns Part 1\" src=\"https://fa-i-p1.ttcdn.uk/i/contentasset31/000/048/886/zbk1pi2r/v=320/w=234;h=132;rm=Crop;q=85/image.jpg\"
+        />\r\n        </noscript>\r\n\r\n\r\n</div>\r\n            </span>\r\n        </div>\r\n
+        \       <div  class=\"c-assetCollectionItem__info\">\r\n            <h3  class=\"c-assetCollectionItem__title
+        clearBoth jEllipsis\">\r\n                Batman: The Dark Knight Returns
+        Part 1\r\n            </h3>\r\n            <dl class=\"b-listFloat c-assetCollectionItem__metaData\">\r\n
+        \   <dt class=\"structure\">Certification</dt>\r\n                <dd  class=\"c-assetCollectionItem__metaDataItem
+        b-listFloat__item bulletSeparator textUpper c-assetCollectionItem__metaDataItem--dark
+        c-assetCollectionItem__metaDataItem--no-subtitle\">CERT 15</dd>\r\n                <dt
+        class=\"structure\">Running time</dt>\r\n                <dd  class=\"c-assetCollectionItem__metaDataItem
+        c-assetCollectionItem__runtime runTime b-listFloat__item bulletSeparator c-assetCollectionItem__metaDataItem--dark
         c-assetCollectionItem__metaDataItem--no-subtitle\">1 HR 15 MINS</dd>\r\n                \r\n
-        \           </dl>\r\n        </a>\r\n    </div>\r\n</article>\r\n\r\n    </li>\r\n
-        \   <li class=\"b-assetCollection__item jListItem jsPaginationItem\">\r\n
+        \           </dl>\r\n        </div>\r\n    </a>\r\n    \r\n</article>\r\n\r\n
+        \   </li>\r\n    <li class=\"b-assetCollection__item jListItem jsPaginationItem\">\r\n
         \       <article  class=\"c-assetOverlay c-assetCollectionItem c-assetCollectionItem--dark\">\r\n
-        \   <div  class=\"c-assetOverlay__container\">\r\n        <a class=\"c-assetOverlay__imageContainer
-        j-watchLaterContainer textDecorationNone\" href=\"/movies/batman-the-dark-knight-returns-part-2-(54907)\"
+        \   <a class=\"textDecorationNone\" href=\"/movies/batman-the-dark-knight-returns-part-2-(54907)\"
         data-tracking-click=\"{&quot;Action&quot;:&quot;MoviePage1ItemClicked&quot;,&quot;Category&quot;:&quot;SearchResults&quot;,&quot;IsAjax&quot;:false,&quot;Label&quot;:&quot;Item4&quot;}\">\r\n
-        \           \r\n\r\n<div  class=\"imageContainer pending c-imageContainer
-        c-imageContainer--collectionItemDark c-imageContainer--shadow\" >\r\n\r\n
-        \       <img alt=\"Batman: The Dark Knight Returns Part 2\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAALIAAABkAQMAAAAYI/gZAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAANQTFRF////p8QbyAAAAAF0Uk5TAEDm2GYAAAAZSURBVBgZYxgFo2AUjIJRMApGwSgYBVQFAAlgAAFcIoUVAAAAAElFTkSuQmCC\"
+        \       <div  class=\"c-assetOverlay__container\">\r\n            <span class=\"c-assetOverlay__imageContainer
+        j-watchLaterContainer\">\r\n                \r\n\r\n<div  class=\"imageContainer
+        pending c-imageContainer c-imageContainer--collectionItemDark c-imageContainer--shadow\"
+        >\r\n\r\n        <img alt=\"Batman: The Dark Knight Returns Part 2\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAALIAAABkAQMAAAAYI/gZAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAANQTFRF////p8QbyAAAAAF0Uk5TAEDm2GYAAAAZSURBVBgZYxgFo2AUjIJRMApGwSgYBVQFAAlgAAFcIoUVAAAAAElFTkSuQmCC\"
         class=\"placeholder c-imageContainer__image c-imageContainer__image--collectionItemDark\"
-        data-src-template=\"https://fa-i-p1.ttcdn.uk/i/contentasset31/000/054/907/32xg0ty2/v=319/w={width};h={height};rm=Crop;q={quality}/image.jpg\"
+        data-src-template=\"https://fa-i-p1.ttcdn.uk/i/contentasset31/000/054/907/32xg0ty2/v=320/w={width};h={height};rm=Crop;q={quality}/image.jpg\"
         data-aspect-ratio=\"1.77777778\" data-quality=\"85\" data-force-quality=\"true\"
         />\r\n        <noscript>\r\n            <img alt=\"Batman: The Dark Knight
-        Returns Part 2\" src=\"https://fa-i-p1.ttcdn.uk/i/contentasset31/000/054/907/32xg0ty2/v=319/w=234;h=132;rm=Crop;q=85/image.jpg\"
-        />\r\n        </noscript>\r\n\r\n\r\n</div>\r\n        </a>\r\n        \r\n
-        \   </div>\r\n    <div  class=\"c-assetCollectionItem__info\">\r\n        <h3
-        class=\"clearBoth\">\r\n            <a  class=\"c-assetCollectionItem__title
-        jEllipsis\" href=\"/movies/batman-the-dark-knight-returns-part-2-(54907)\"
-        data-tracking-click=\"{&quot;Action&quot;:&quot;MoviePage1ItemClicked&quot;,&quot;Category&quot;:&quot;SearchResults&quot;,&quot;IsAjax&quot;:false,&quot;Label&quot;:&quot;Item4&quot;}\">\r\n
-        \               Batman: The Dark Knight Returns Part 2\r\n            </a>\r\n
-        \       </h3>\r\n        <a class=\"textDecorationNone\" href=\"/movies/batman-the-dark-knight-returns-part-2-(54907)\"
-        data-tracking-click=\"{&quot;Action&quot;:&quot;MoviePage1ItemClicked&quot;,&quot;Category&quot;:&quot;SearchResults&quot;,&quot;IsAjax&quot;:false,&quot;Label&quot;:&quot;Item4&quot;}\">\r\n
-        \           <dl class=\"b-listFloat c-assetCollectionItem__metaData\">\r\n
-        \               <dt class=\"structure\">Certification</dt>\r\n                <dd
-        \ class=\"c-assetCollectionItem__metaDataItem b-listFloat__item bulletSeparator
-        textUpper c-assetCollectionItem__metaDataItem--dark c-assetCollectionItem__metaDataItem--no-subtitle\">CERT
-        15</dd>\r\n                <dt class=\"structure\">Running time</dt>\r\n                <dd
-        \ class=\"c-assetCollectionItem__metaDataItem c-assetCollectionItem__runtime
-        runTime b-listFloat__item bulletSeparator c-assetCollectionItem__metaDataItem--dark
+        Returns Part 2\" src=\"https://fa-i-p1.ttcdn.uk/i/contentasset31/000/054/907/32xg0ty2/v=320/w=234;h=132;rm=Crop;q=85/image.jpg\"
+        />\r\n        </noscript>\r\n\r\n\r\n</div>\r\n            </span>\r\n        </div>\r\n
+        \       <div  class=\"c-assetCollectionItem__info\">\r\n            <h3  class=\"c-assetCollectionItem__title
+        clearBoth jEllipsis\">\r\n                Batman: The Dark Knight Returns
+        Part 2\r\n            </h3>\r\n            <dl class=\"b-listFloat c-assetCollectionItem__metaData\">\r\n
+        \   <dt class=\"structure\">Certification</dt>\r\n                <dd  class=\"c-assetCollectionItem__metaDataItem
+        b-listFloat__item bulletSeparator textUpper c-assetCollectionItem__metaDataItem--dark
+        c-assetCollectionItem__metaDataItem--no-subtitle\">CERT 15</dd>\r\n                <dt
+        class=\"structure\">Running time</dt>\r\n                <dd  class=\"c-assetCollectionItem__metaDataItem
+        c-assetCollectionItem__runtime runTime b-listFloat__item bulletSeparator c-assetCollectionItem__metaDataItem--dark
         c-assetCollectionItem__metaDataItem--no-subtitle\">1 HR 16 MINS</dd>\r\n                \r\n
-        \           </dl>\r\n        </a>\r\n    </div>\r\n</article>\r\n\r\n    </li>\r\n\r\n
-        \               </ul>\r\n\r\n                \r\n\r\n\r\n            </section>\r\n\r\n
-        \       </div>\r\n\r\n    </div>\r\n\r\n        </div>\r\n    </main>\r\n\r\n
-        \       <footer class=\"c-footer is-responsive divider\">\r\n            \r\n<div
-        class=\"c-footer__about\">\r\n    <h2 class=\"structure\">About TalkTalk TV</h2>\r\n
-        \   <ul class=\"b-maxWidthContainer\">\r\n        <li class=\"g-infoItem c-footer__about__item
-        c-infoItem c-infoItem--help\">\r\n            <a class=\"textDecorationNone\"
-        href=\"http://support.blinkbox.com\">\r\n                <h3 class=\"c-infoItem__title\">Help
-        &amp; support</h3>\r\n                <p class=\"c-infoItem__desc\">Let us
-        help you sort out any problems as quickly as possible, with the minimum of
-        fuss.</p>\r\n            </a>\r\n        </li>\r\n        <li class=\"g-infoItem
-        c-footer__about__item c-infoItem c-infoItem--how\">\r\n            <a class=\"textDecorationNone\"
-        href=\"/about\">\r\n                <h3 class=\"c-infoItem__title\">How it
-        works</h3>\r\n                <p class=\"c-infoItem__desc\">Discover how and
-        where to watch great titles on <span class=\"nowrap\">TalkTalk TV Store.</span></p>\r\n
-        \           </a>\r\n        </li>\r\n        <li class=\"g-infoItem c-footer__about__item
-        c-infoItem c-infoItem--uv\">\r\n            <a class=\"textDecorationNone\"
-        href=\"/ultraviolet\">\r\n                <h3 class=\"c-infoItem__title\">UltraViolet</h3>\r\n
-        \               <p class=\"c-infoItem__desc\">Create digital copies of your
-        DVDs and Blu-rays and watch, store and share online.</p>\r\n            </a>\r\n
+        \           </dl>\r\n        </div>\r\n    </a>\r\n    \r\n</article>\r\n\r\n
+        \   </li>\r\n\r\n                </ul>\r\n\r\n                \r\n\r\n\r\n
+        \           </section>\r\n\r\n        </div>\r\n\r\n    </div>\r\n\r\n        </div>\r\n
+        \   </main>\r\n\r\n        <footer class=\"c-footer is-responsive divider\">\r\n
+        \           \r\n<div class=\"c-footer__about\">\r\n    <h2 class=\"structure\">About
+        TalkTalk TV</h2>\r\n    <ul class=\"b-maxWidthContainer\">\r\n        <li
+        class=\"g-infoItem c-footer__about__item c-infoItem c-infoItem--help\">\r\n
+        \           <a class=\"textDecorationNone\" href=\"http://support.blinkbox.com\">\r\n
+        \               <h3 class=\"c-infoItem__title\">Help &amp; support</h3>\r\n
+        \               <p class=\"c-infoItem__desc\">Let us help you sort out any
+        problems as quickly as possible, with the minimum of fuss.</p>\r\n            </a>\r\n
         \       </li>\r\n        <li class=\"g-infoItem c-footer__about__item c-infoItem
-        c-infoItem--giftcard\">\r\n            <a class=\"textDecorationNone\" href=\"http://www.talktalktvstore.co.uk/redeem\">\r\n
+        c-infoItem--how\">\r\n            <a class=\"textDecorationNone\" href=\"/about\">\r\n
+        \               <h3 class=\"c-infoItem__title\">How it works</h3>\r\n                <p
+        class=\"c-infoItem__desc\">Discover how and where to watch great titles on
+        <span class=\"nowrap\">TalkTalk TV Store.</span></p>\r\n            </a>\r\n
+        \       </li>\r\n        <li class=\"g-infoItem c-footer__about__item c-infoItem
+        c-infoItem--uv\">\r\n            <a class=\"textDecorationNone\" href=\"/ultraviolet\">\r\n
+        \               <h3 class=\"c-infoItem__title\">UltraViolet</h3>\r\n                <p
+        class=\"c-infoItem__desc\">Create digital copies of your DVDs and Blu-rays
+        and watch, store and share online.</p>\r\n            </a>\r\n        </li>\r\n
+        \       <li class=\"g-infoItem c-footer__about__item c-infoItem c-infoItem--giftcard\">\r\n
+        \           <a class=\"textDecorationNone\" href=\"http://www.talktalktvstore.co.uk/redeem\">\r\n
         \               <h3 class=\"c-infoItem__title\">blinkbox cards</h3>\r\n                    <p
         class=\"c-infoItem__desc\">Redeem your blinkbox Movie &amp; TV Cards and hudl2
         movie magic codes.</p>\r\n            </a>\r\n        </li>\r\n    </ul>\r\n</div>\r\n<div
@@ -413,14 +392,14 @@ http_interactions:
         Copyright 2016 TalkTalk TV Entertainment Limited. <span class=\"nowrap\">All
         rights reserved.</span></p>\r\n</div>\r\n\r\n            </div>\r\n        </footer>\r\n\r\n
         \   \r\n\r\n    \r\n    \r\n    <script src=\"//ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js\"></script>\r\n<script>(window.jQuery)||document.write('<script
-        src=\"/bundles/scripts/344/JQuery_v1_11_1.js\"><\\/script>');</script>\r\n\r\n
+        src=\"/bundles/scripts/345/JQuery_v1_11_1.js\"><\\/script>');</script>\r\n\r\n
         \   <script type=\"text/javascript\">\r\n        // Add jQuery noConflict
         to avoid prototype clashes\r\n        jQuery.noConflict();\r\n    </script>\r\n\r\n
         \       <script type=\"text/javascript\">\r\n            jQuery(document).ready(function
         () {\r\n                BlinkBox.Analytics.init({\"affiliateWindowMerchantId\":\"2481\",\"affiliateWindowTestEnabled\":true,\"deviceFamilyId\":\"1\",\"dfaCatId\":\"searc908\",\"dfaTypeId\":\"blink955\",\"floodlightSrc\":\"3343247\",\"globalId\":\"0\",\"googleAnalyticsId\":\"UA-3023792-1\",\"memberId\":\"0\",\"searchTerm\":\"dark
-        knight\",\"trackComscoreEnabled\":true,\"trackPerfectStormEnabled\":true,\"userSegment\":\"Anonymous\",\"userToken\":\"dbd2e81611af4f99ab8248f9bc1a47da\"});\r\n
-        \           });\r\n        </script>\r\n    <script src=\"/bundles/scripts/344/Global.js?v=L1eIpUqZAL_SPDuMUDAzX5TgRaoqnjBFxVmGuePmJhA1\"></script>\r\n\r\n\r\n
-        \   \r\n    <script src=\"/bundles/scripts/344/Search.js?v=y6YDjPgjosfVgUqp9L9T6RdPsQ231D7F_PQlKEeWTn41\"></script>\r\n\r\n\r\n
+        knight\",\"trackComscoreEnabled\":true,\"trackPerfectStormEnabled\":true,\"userSegment\":\"Anonymous\",\"userToken\":\"25bb7d924b0943f59b0c89ac120a61b4\"});\r\n
+        \           });\r\n        </script>\r\n    <script src=\"/bundles/scripts/345/Global.js?v=FiM3phDOH3K-OwEWHXiZLK2qxpkP_WhA9tx3I9R2vac1\"></script>\r\n\r\n\r\n
+        \   \r\n    <script src=\"/bundles/scripts/345/Search.js?v=y6YDjPgjosfVgUqp9L9T6RdPsQ231D7F_PQlKEeWTn41\"></script>\r\n\r\n\r\n
         \   \r\n\r\n    \r\n\r\n    \r\n\r\n    \r\n\r\n    \r\n    <script type=\"text/javascript\">\r\n
         \   setTimeout(function () {\r\n        var a = document.createElement(\"script\");\r\n
         \       var b = document.getElementsByTagName(\"script\")[0];\r\n        a.src
@@ -429,5 +408,5 @@ http_interactions:
         = \"text/javascript\";\r\n        b.parentNode.insertBefore(a, b);\r\n    },
         1);\r\n</script>\r\n</body>\r\n</html>\r\n"
     http_version: 
-  recorded_at: Mon, 09 May 2016 05:11:06 GMT
-recorded_with: VCR 3.0.1
+  recorded_at: Thu, 09 Jun 2016 04:54:35 GMT
+recorded_with: VCR 3.0.3

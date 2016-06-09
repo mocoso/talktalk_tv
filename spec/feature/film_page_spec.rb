@@ -7,7 +7,7 @@ describe 'A film page', :vcr do
 
     it { expect(subject.title).to eq('The Dark Knight') }
     it { expect(subject.url).to eq('https://www.talktalktvstore.co.uk/movies/the-dark-knight-(28710)') }
-    it { expect(subject.image_url).to eq('https://fa-i-p1.ttcdn.uk/i/contentasset3/000/028/710/gl0lloqf/v=319/w=215;h=306;rm=Crop;q=85/image.jpg') }
+    it { expect(subject.image_url).to eq('https://fa-i-p1.ttcdn.uk/i/contentasset3/000/028/710/gl0lloqf/v=320/w=215;h=306;rm=Crop;q=85/image.jpg') }
     it { expect(subject.release_year).to eq(2008) }
     it { expect(subject.certificate).to eq('12') }
     it { expect(subject.running_time_in_minutes).to eq(152) }
@@ -20,7 +20,7 @@ describe 'A film page', :vcr do
 
     it { expect(subject.title).to eq('12 Monkeys') }
     it { expect(subject.url).to eq('https://www.talktalktvstore.co.uk/tv/12-monkeys-(2313)/s01-(3555)') }
-    it { expect(subject.image_url).to eq('https://fa-i-p1.ttcdn.uk/i/tvseries/000/002/313/yzr3t1rw/v=319/w=215;h=306;rm=Crop;q=85/image.jpg') }
+    it { expect(subject.image_url).to eq('https://fa-i-p1.ttcdn.uk/i/tvseries/000/002/313/yzr3t1rw/v=320/w=215;h=306;rm=Crop;q=85/image.jpg') }
     it { expect(subject.release_year).to eq(2015) }
     it { expect(subject.certificate).to eq('15') }
     it { expect(subject.running_time_in_minutes).to be_nil }

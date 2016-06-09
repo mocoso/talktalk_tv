@@ -48,7 +48,7 @@ module TalkTalkTV
     end
 
     def extract_film_path_or_url(fragment)
-      fragment.css('h3 a').first.attributes['href'].value
+      fragment.css('a').first.attributes['href'].value
     end
 
     def film_image_url(fragment)
