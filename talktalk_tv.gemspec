@@ -1,6 +1,6 @@
 Gem::Specification.new do |s|
   s.name        = 'talktalk_tv'
-  s.version     = '0.0.7'
+  s.version     = '0.0.8'
   s.date        = '2016-06-09'
   s.summary     = "A simple search API for https://www.talktalktvstore.co.uk"
   s.description = "Built with some wonky page scraping"
